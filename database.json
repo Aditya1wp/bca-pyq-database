@@ -208,5 +208,20 @@
     "fileName": "2024 ge 1.pdf",
     "fileSize": 635736,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE_1_1778336623854.pdf"
+  },
+  {
+    "id": "1778340542985",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GTA_VICE_CITY",
+    "subjectName": "ROCKSTAR",
+    "year": 2023,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-09T15:29:04.309Z",
+    "fileName": "www.gif",
+    "fileSize": 884616,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/GTA_VICE_CITY_1778340542985.gif"
   }
 ]
