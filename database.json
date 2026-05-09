@@ -22,5 +22,19 @@
     "fileName": "cc2 2020 .pdf",
     "fileSize": 2872426,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC02_1778309800939.pdf"
+  },
+  {
+    "id": "1778314188602",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "AECC-01",
+    "subjectName": "ENGLISH",
+    "year": 2020,
+    "semester": "1st",
+    "docType": "pyq",
+    "createdAt": "2026-05-09T08:09:49.711Z",
+    "fileName": "2020 (1).pdf",
+    "fileSize": 161848,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/AECC-01_1778314188602.pdf"
   }
 ]
