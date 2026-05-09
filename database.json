@@ -170,5 +170,31 @@
     "fileName": "2023.pdf",
     "fileSize": 588940,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC1_1778335901110.pdf"
+  },
+  {
+    "id": "1778336388840",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC_2",
+    "subjectName": "2021 cc 2",
+    "year": 2021,
+    "semester": "1st",
+    "createdAt": "2026-05-09T14:19:51.734Z",
+    "fileName": "2021 cc 2.pdf",
+    "fileSize": 1079212,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC_2_1778336388840.pdf"
+  },
+  {
+    "id": "1778336391736",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GE_1",
+    "subjectName": "2021 ge1",
+    "year": 2021,
+    "semester": "1st",
+    "createdAt": "2026-05-09T14:19:54.968Z",
+    "fileName": "2021 ge1.pdf",
+    "fileSize": 1483465,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE_1_1778336391736.pdf"
   }
 ]
