@@ -196,5 +196,18 @@
     "fileName": "2021 ge1.pdf",
     "fileSize": 1483465,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE_1_1778336391736.pdf"
+  },
+  {
+    "id": "1778336545854",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "AECC1",
+    "subjectName": "english",
+    "year": 2023,
+    "semester": "1st",
+    "createdAt": "2026-05-09T14:22:29.299Z",
+    "fileName": "2023 aecc1.pdf",
+    "fileSize": 753012,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/AECC1_1778336545854.pdf"
   }
 ]
