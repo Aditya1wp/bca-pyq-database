@@ -78,5 +78,19 @@
     "fileName": "2021 (3).pdf",
     "fileSize": 1048411,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/AECC1_1778332476184.pdf"
+  },
+  {
+    "id": "1778332519701",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GE1",
+    "subjectName": "math",
+    "year": 2024,
+    "semester": "1st",
+    "docType": "pyq",
+    "createdAt": "2026-05-09T13:15:21.194Z",
+    "fileName": "2021.pdf",
+    "fileSize": 1483465,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE1_1778332519701.pdf"
   }
 ]
