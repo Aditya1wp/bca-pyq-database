@@ -9,5 +9,18 @@
     "fileName": "2020.pdf",
     "fileSize": 2843646,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC-01_1778307012030.pdf"
+  },
+  {
+    "id": "1778309800939",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC02",
+    "subjectName": "C programming ",
+    "year": 2020,
+    "semester": "1st",
+    "createdAt": "2026-05-09T06:56:42.421Z",
+    "fileName": "cc2 2020 .pdf",
+    "fileSize": 2872426,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC02_1778309800939.pdf"
   }
 ]
