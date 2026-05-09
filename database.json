@@ -36,5 +36,19 @@
     "fileName": "2020 (1).pdf",
     "fileSize": 161848,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/AECC-01_1778314188602.pdf"
+  },
+  {
+    "id": "1778314282386",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-01",
+    "subjectName": "COMPUTER FUNDAMENTAL ",
+    "year": 2021,
+    "semester": "1st",
+    "docType": "pyq",
+    "createdAt": "2026-05-09T08:11:23.578Z",
+    "fileName": "2021 (1).pdf",
+    "fileSize": 922385,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC-01_1778314282386.pdf"
   }
 ]
