@@ -131,5 +131,44 @@
     "fileName": "2022.pdf",
     "fileSize": 4127450,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC1_1778335073693.pdf"
+  },
+  {
+    "id": "1778335895935",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC2",
+    "subjectName": "2023 (1)",
+    "year": 2023,
+    "semester": "1st",
+    "createdAt": "2026-05-09T14:11:38.646Z",
+    "fileName": "2023 (1).pdf",
+    "fileSize": 721176,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC2_1778335895935.pdf"
+  },
+  {
+    "id": "1778335898647",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GE01",
+    "subjectName": "2023 (3)",
+    "year": 2023,
+    "semester": "1st",
+    "createdAt": "2026-05-09T14:11:41.108Z",
+    "fileName": "2023 (3).pdf",
+    "fileSize": 943071,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE01_1778335898647.pdf"
+  },
+  {
+    "id": "1778335901110",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC1",
+    "subjectName": "2023",
+    "year": 2023,
+    "semester": "1st",
+    "createdAt": "2026-05-09T14:11:43.891Z",
+    "fileName": "2023.pdf",
+    "fileSize": 588940,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC1_1778335901110.pdf"
   }
 ]
