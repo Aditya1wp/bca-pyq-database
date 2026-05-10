@@ -1890,5 +1890,20 @@
     "fileName": "BeautyDemo.ttf",
     "fileSize": 38804,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/PVU-527_1778391650372.ttf"
+  },
+  {
+    "id": "1778391655782",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Biotechnology",
+    "subjectCode": "ETD-631",
+    "subjectName": "Test Subject ETD",
+    "year": 2020,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:56.569Z",
+    "fileName": "Blacklisted.ttf",
+    "fileSize": 13696,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__biotechnology/8th/ETD-631_1778391655782.ttf"
   }
 ]
