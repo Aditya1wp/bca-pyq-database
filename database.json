@@ -4905,5 +4905,20 @@
     "fileName": "TheGodfather.TTF",
     "fileSize": 70244,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/5th/QUK-540_1778392808810.TTF"
+  },
+  {
+    "id": "1778392815037",
+    "category": "Self-Financed PG",
+    "courseName": "MBA",
+    "subjectCode": "ZPF-352",
+    "subjectName": "Test Subject ZPF",
+    "year": 2022,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T06:00:16.114Z",
+    "fileName": "Thelordoftherings.ttf",
+    "fileSize": 124496,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/4th/ZPF-352_1778392815037.ttf"
   }
 ]
