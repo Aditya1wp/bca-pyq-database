@@ -4380,5 +4380,20 @@
     "fileName": "raidercrusaderleft.ttf",
     "fileSize": 26904,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/3rd/FCK-971_1778392609314.ttf"
+  },
+  {
+    "id": "1778392614928",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "JBA-629",
+    "subjectName": "Test Subject JBA",
+    "year": 2014,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:55.773Z",
+    "fileName": "raidercrusadersemistraight.ttf",
+    "fileSize": 27064,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/JBA-629_1778392614928.ttf"
   }
 ]
