@@ -3855,5 +3855,20 @@
     "fileName": "Love.ttf",
     "fileSize": 48212,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/8th/SPL-205_1778392414601.ttf"
+  },
+  {
+    "id": "1778392420024",
+    "category": "PG Diploma",
+    "courseName": "Yogic Science",
+    "subjectCode": "FJW-231",
+    "subjectName": "Test Subject FJW",
+    "year": 2010,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:40.878Z",
+    "fileName": "LOVES REG.ttf",
+    "fileSize": 44592,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/5th/FJW-231_1778392420024.ttf"
   }
 ]
