@@ -960,5 +960,20 @@
     "fileName": "fp_down.png",
     "fileSize": 1657,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/4th/FWN-823_1778390579084.png"
+  },
+  {
+    "id": "1778390583962",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Biotechnology",
+    "subjectCode": "IRX-613",
+    "subjectName": "Test Subject IRX",
+    "year": 2018,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:04.727Z",
+    "fileName": "fp_downleft.png",
+    "fileSize": 1640,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__biotechnology/4th/IRX-613_1778390583962.png"
   }
 ]
