@@ -3930,5 +3930,20 @@
     "fileName": "Matrix.ttf",
     "fileSize": 117780,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/1st/TMV-732_1778392442241.ttf"
+  },
+  {
+    "id": "1778392447673",
+    "category": "Self-Financed PG",
+    "courseName": "M.Lib.I.Sc.",
+    "subjectCode": "PIR-253",
+    "subjectName": "Test Subject PIR",
+    "year": 2022,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:08.493Z",
+    "fileName": "Minecrafter.Alt.ttf",
+    "fileSize": 22616,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/5th/PIR-253_1778392447673.ttf"
   }
 ]
