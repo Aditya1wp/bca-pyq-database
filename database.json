@@ -2370,5 +2370,20 @@
     "fileName": "Dezire Stacked.ttf",
     "fileSize": 86000,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/MZN-229_1778391844812.ttf"
+  },
+  {
+    "id": "1778391850371",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "QNJ-523",
+    "subjectName": "Test Subject QNJ",
+    "year": 2015,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:11.212Z",
+    "fileName": "DIENASTY.TTF",
+    "fileSize": 30612,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/QNJ-523_1778391850371.TTF"
   }
 ]
