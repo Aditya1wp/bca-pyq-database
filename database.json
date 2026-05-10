@@ -3570,5 +3570,20 @@
     "fileName": "kenyan coffee rg it.ttf",
     "fileSize": 153684,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/1st/GEX-711_1778392303751.ttf"
+  },
+  {
+    "id": "1778392309924",
+    "category": "Self-Financed UG",
+    "courseName": "Environmental Science",
+    "subjectCode": "ZPQ-356",
+    "subjectName": "Test Subject ZPQ",
+    "year": 2020,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:50.837Z",
+    "fileName": "kenyan coffee rg.ttf",
+    "fileSize": 148912,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/2nd/ZPQ-356_1778392309924.ttf"
   }
 ]
