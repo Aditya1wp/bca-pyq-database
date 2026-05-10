@@ -2490,5 +2490,20 @@
     "fileName": "Eatday.otf",
     "fileSize": 29656,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/4th/IFJ-539_1778391889618.otf"
+  },
+  {
+    "id": "1778391895089",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "YXR-146",
+    "subjectName": "Test Subject YXR",
+    "year": 2017,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:55.873Z",
+    "fileName": "Eatday.ttf",
+    "fileSize": 49952,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/8th/YXR-146_1778391895089.ttf"
   }
 ]
