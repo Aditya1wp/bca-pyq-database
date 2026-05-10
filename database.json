@@ -3255,5 +3255,20 @@
     "fileName": "homoarakhn.regular.ttf",
     "fileSize": 18156,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/JZI-831_1778392175918.ttf"
+  },
+  {
+    "id": "1778392182343",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "LAC-949",
+    "subjectName": "Test Subject LAC",
+    "year": 2015,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:43.388Z",
+    "fileName": "I KNOW A GHOST.ttf",
+    "fileSize": 449084,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/2nd/LAC-949_1778392182343.ttf"
   }
 ]
