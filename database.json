@@ -2625,5 +2625,20 @@
     "fileName": "Evil Empire 400.otf",
     "fileSize": 45956,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/7th/GKF-176_1778391939537.otf"
+  },
+  {
+    "id": "1778391945255",
+    "category": "Self-Financed PG",
+    "courseName": "PMIR",
+    "subjectCode": "UCI-779",
+    "subjectName": "Test Subject UCI",
+    "year": 2013,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:46.065Z",
+    "fileName": "Evogria Italic.otf",
+    "fileSize": 72624,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pmir/4th/UCI-779_1778391945255.otf"
   }
 ]
