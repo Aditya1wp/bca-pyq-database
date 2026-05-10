@@ -1560,5 +1560,20 @@
     "fileName": "Anton-Regular.ttf",
     "fileSize": 161588,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/7th/FDB-352_1778391527947.ttf"
+  },
+  {
+    "id": "1778391534234",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "OEL-565",
+    "subjectName": "Test Subject OEL",
+    "year": 2024,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:55.148Z",
+    "fileName": "Aquawax Black Trial.ttf",
+    "fileSize": 235596,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/OEL-565_1778391534234.ttf"
   }
 ]
