@@ -1095,5 +1095,20 @@
     "fileName": "www.gif",
     "fileSize": 884616,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/LHI-669_1778403142661.gif"
+  },
+  {
+    "id": "1778403150191",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "LRJ-748",
+    "subjectName": "Test Subject LRJ",
+    "year": 2018,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T08:52:31.510Z",
+    "fileName": "Your Name - Mitsuha Miyamizu.gif",
+    "fileSize": 2090040,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/2nd/LRJ-748_1778403150191.gif"
   }
 ]
