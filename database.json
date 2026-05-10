@@ -1455,5 +1455,20 @@
     "fileName": "A Box For.ttf",
     "fileSize": 94164,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/5th/NTD-877_1778391488954.ttf"
+  },
+  {
+    "id": "1778391494071",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Women's Studies",
+    "subjectCode": "WJI-258",
+    "subjectName": "Test Subject WJI",
+    "year": 2017,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:14.952Z",
+    "fileName": "Akira Jimbo.ttf",
+    "fileSize": 13768,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__women_s_studies/4th/WJI-258_1778391494071.ttf"
   }
 ]
