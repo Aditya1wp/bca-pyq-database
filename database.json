@@ -4275,5 +4275,20 @@
     "fileName": "PowerRangers.otf",
     "fileSize": 28668,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/HZP-447_1778392569353.otf"
+  },
+  {
+    "id": "1778392575027",
+    "category": "Self-Financed UG",
+    "courseName": "BBA",
+    "subjectCode": "OGV-839",
+    "subjectName": "Test Subject OGV",
+    "year": 2013,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:15.867Z",
+    "fileName": "raidercrusader.ttf",
+    "fileSize": 26960,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/4th/OGV-839_1778392575027.ttf"
   }
 ]
