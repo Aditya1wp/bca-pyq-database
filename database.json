@@ -1995,5 +1995,20 @@
     "fileName": "Butterscotch.otf",
     "fileSize": 63676,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/8th/OTQ-001_1778391691913.otf"
+  },
+  {
+    "id": "1778391697425",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "GAY-684",
+    "subjectName": "Test Subject GAY",
+    "year": 2018,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:38.199Z",
+    "fileName": "Butterscotch.ttf",
+    "fileSize": 25328,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/5th/GAY-684_1778391697425.ttf"
   }
 ]
