@@ -945,5 +945,20 @@
     "fileName": "downright2.png",
     "fileSize": 1925,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/6th/THF-581_1778390574046.png"
+  },
+  {
+    "id": "1778390579084",
+    "category": "Self-Financed PG",
+    "courseName": "M.Lib.I.Sc.",
+    "subjectCode": "FWN-823",
+    "subjectName": "Test Subject FWN",
+    "year": 2014,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:59.790Z",
+    "fileName": "fp_down.png",
+    "fileSize": 1657,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/4th/FWN-823_1778390579084.png"
   }
 ]
