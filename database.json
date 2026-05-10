@@ -2010,5 +2010,20 @@
     "fileName": "Butterscotch.ttf",
     "fileSize": 25328,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/5th/GAY-684_1778391697425.ttf"
+  },
+  {
+    "id": "1778391702883",
+    "category": "Regular PG",
+    "courseName": "M.A.",
+    "subjectCode": "PSC-233",
+    "subjectName": "Test Subject PSC",
+    "year": 2016,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:43.689Z",
+    "fileName": "Caribbean.ttf",
+    "fileSize": 25080,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/6th/PSC-233_1778391702883.ttf"
   }
 ]
