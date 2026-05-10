@@ -1680,5 +1680,20 @@
     "fileName": "Baby Doll.otf",
     "fileSize": 30848,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/6th/GNL-425_1778391572749.otf"
+  },
+  {
+    "id": "1778391578315",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "DUM-623",
+    "subjectName": "Test Subject DUM",
+    "year": 2010,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:39.157Z",
+    "fileName": "Baby Doll.ttf",
+    "fileSize": 42212,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/4th/DUM-623_1778391578315.ttf"
   }
 ]
