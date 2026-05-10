@@ -3345,5 +3345,20 @@
     "fileName": "JMH Typewriter-Bold.ttf",
     "fileSize": 470960,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/6th/UZK-982_1778392213730.ttf"
+  },
+  {
+    "id": "1778392219899",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "IEH-400",
+    "subjectName": "Test Subject IEH",
+    "year": 2017,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:20.820Z",
+    "fileName": "JMH Typewriter-Thin.otf",
+    "fileSize": 324348,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/2nd/IEH-400_1778392219899.otf"
   }
 ]
