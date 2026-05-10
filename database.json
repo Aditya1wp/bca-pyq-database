@@ -1935,5 +1935,20 @@
     "fileName": "Blastimo Swash.ttf",
     "fileSize": 814888,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/8th/AFY-563_1778391667815.ttf"
+  },
+  {
+    "id": "1778391674439",
+    "category": "Regular PG",
+    "courseName": "M.A.",
+    "subjectCode": "XNN-188",
+    "subjectName": "Test Subject XNN",
+    "year": 2012,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:15.477Z",
+    "fileName": "Blastimo.ttf",
+    "fileSize": 539216,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/6th/XNN-188_1778391674439.ttf"
   }
 ]
