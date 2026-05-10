@@ -855,5 +855,20 @@
     "fileName": "ciurma di cappello di paglia.gif",
     "fileSize": 1550625,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/5th/TUC-279_1778403008831.gif"
+  },
+  {
+    "id": "1778403016589",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Biotechnology",
+    "subjectCode": "RAF-499",
+    "subjectName": "Test Subject RAF",
+    "year": 2014,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T08:50:17.944Z",
+    "fileName": "download (1).gif",
+    "fileSize": 2091672,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__biotechnology/3rd/RAF-499_1778403016589.gif"
   }
 ]
