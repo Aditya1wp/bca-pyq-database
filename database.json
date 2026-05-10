@@ -1665,5 +1665,20 @@
     "fileName": "Avengers.ttf",
     "fileSize": 31656,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/8th/JKM-425_1778391567258.ttf"
+  },
+  {
+    "id": "1778391572749",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "GNL-425",
+    "subjectName": "Test Subject GNL",
+    "year": 2019,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:33.536Z",
+    "fileName": "Baby Doll.otf",
+    "fileSize": 30848,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/6th/GNL-425_1778391572749.otf"
   }
 ]
