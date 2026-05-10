@@ -3450,5 +3450,20 @@
     "fileName": "Josefin Sans SemiBold.ttf",
     "fileSize": 87880,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__bio-chemistry/3rd/XTD-033_1778392256924.ttf"
+  },
+  {
+    "id": "1778392262574",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "WTO-343",
+    "subjectName": "Test Subject WTO",
+    "year": 2018,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:03.429Z",
+    "fileName": "jully julia.otf",
+    "fileSize": 25372,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/WTO-343_1778392262574.otf"
   }
 ]
