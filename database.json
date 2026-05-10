@@ -3885,5 +3885,20 @@
     "fileName": "Lucifer.ttf",
     "fileSize": 27200,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/8th/VIC-810_1778392425458.ttf"
+  },
+  {
+    "id": "1778392430755",
+    "category": "Regular PG",
+    "courseName": "M.A.",
+    "subjectCode": "DUT-784",
+    "subjectName": "Test Subject DUT",
+    "year": 2017,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:51.595Z",
+    "fileName": "mandalore.ttf",
+    "fileSize": 48868,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/8th/DUT-784_1778392430755.ttf"
   }
 ]
