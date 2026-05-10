@@ -3540,5 +3540,20 @@
     "fileName": "kenyan coffee bd it.ttf",
     "fileSize": 154060,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/3rd/JSL-211_1778392291689.ttf"
+  },
+  {
+    "id": "1778392297774",
+    "category": "Self-Financed UG",
+    "courseName": "B.MC",
+    "subjectCode": "ZWI-101",
+    "subjectName": "Test Subject ZWI",
+    "year": 2024,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:38.673Z",
+    "fileName": "kenyan coffee bd.ttf",
+    "fileSize": 154128,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/6th/ZWI-101_1778392297774.ttf"
   }
 ]
