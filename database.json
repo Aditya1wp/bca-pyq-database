@@ -4005,5 +4005,20 @@
     "fileName": "Moonrising.otf",
     "fileSize": 31880,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/7th/EQA-789_1778392469551.otf"
+  },
+  {
+    "id": "1778392474894",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "JUF-400",
+    "subjectName": "Test Subject JUF",
+    "year": 2017,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:35.718Z",
+    "fileName": "Moonrising.ttf",
+    "fileSize": 31880,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/7th/JUF-400_1778392474894.ttf"
   }
 ]
