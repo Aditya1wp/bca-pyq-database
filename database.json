@@ -4455,5 +4455,20 @@
     "fileName": "ROBO.ttf",
     "fileSize": 53420,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/6th/IZO-245_1778392637357.ttf"
+  },
+  {
+    "id": "1778392643010",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "UKM-013",
+    "subjectName": "Test Subject UKM",
+    "year": 2017,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:57:23.919Z",
+    "fileName": "RODENBERG_DEMO.ttf",
+    "fileSize": 106232,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/1st/UKM-013_1778392643010.ttf"
   }
 ]
