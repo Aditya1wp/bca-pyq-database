@@ -5070,5 +5070,20 @@
     "fileName": "VivekH20-Regular.ttf.otf",
     "fileSize": 11908,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/2nd/ZWQ-052_1778392871907.otf"
+  },
+  {
+    "id": "1778392877431",
+    "category": "Self-Financed UG",
+    "courseName": "Functional English",
+    "subjectCode": "LYI-693",
+    "subjectName": "Test Subject LYI",
+    "year": 2016,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T06:01:18.450Z",
+    "fileName": "Vogue.ttf",
+    "fileSize": 26480,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/3rd/LYI-693_1778392877431.ttf"
   }
 ]
