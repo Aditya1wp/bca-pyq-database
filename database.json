@@ -4785,5 +4785,20 @@
     "fileName": "Strong-Regular.ttf",
     "fileSize": 11192,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/6th/SUJ-354_1778392762033.ttf"
+  },
+  {
+    "id": "1778392767618",
+    "category": "Self-Financed PG",
+    "courseName": "M.Lib.I.Sc.",
+    "subjectCode": "ZXL-884",
+    "subjectName": "Test Subject ZXL",
+    "year": 2019,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:28.435Z",
+    "fileName": "supercellmagic.ttf",
+    "fileSize": 71044,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/3rd/ZXL-884_1778392767618.ttf"
   }
 ]
