@@ -1365,5 +1365,20 @@
     "fileName": "upright2.png",
     "fileSize": 1958,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/2nd/TSM-326_1778390714443.png"
+  },
+  {
+    "id": "1778390719471",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "IMU-474",
+    "subjectName": "Test Subject IMU",
+    "year": 2015,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:20.189Z",
+    "fileName": "wash1.png",
+    "fileSize": 1937,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/3rd/IMU-474_1778390719471.png"
   }
 ]
