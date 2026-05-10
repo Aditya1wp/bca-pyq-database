@@ -1110,5 +1110,20 @@
     "fileName": "leftclaw1.png",
     "fileSize": 1909,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/1st/ACJ-062_1778390628640.png"
+  },
+  {
+    "id": "1778390633626",
+    "category": "Self-Financed UG",
+    "courseName": "Environmental Science",
+    "subjectCode": "DLX-392",
+    "subjectName": "Test Subject DLX",
+    "year": 2019,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:54.371Z",
+    "fileName": "leftclaw2.png",
+    "fileSize": 1906,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/3rd/DLX-392_1778390633626.png"
   }
 ]
