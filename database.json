@@ -1065,5 +1065,20 @@
     "fileName": "we.gif",
     "fileSize": 1965916,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/6th/RGV-203_1778403127442.gif"
+  },
+  {
+    "id": "1778403135339",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "ZZG-861",
+    "subjectName": "Test Subject ZZG",
+    "year": 2025,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:52:16.576Z",
+    "fileName": "ww.gif",
+    "fileSize": 1909070,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/ZZG-861_1778403135339.gif"
   }
 ]
