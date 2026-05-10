@@ -3300,5 +3300,20 @@
     "fileName": "JMH Typewriter-Black.otf",
     "fileSize": 179392,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/6th/MUT-902_1778392194398.otf"
+  },
+  {
+    "id": "1778392200830",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "BPL-977",
+    "subjectName": "Test Subject BPL",
+    "year": 2014,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:01.862Z",
+    "fileName": "JMH Typewriter-Black.ttf",
+    "fileSize": 449732,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/5th/BPL-977_1778392200830.ttf"
   }
 ]
