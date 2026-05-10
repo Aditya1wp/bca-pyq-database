@@ -3225,5 +3225,20 @@
     "fileName": "HARRYP__.TTF",
     "fileSize": 27432,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/FXX-671_1778392164616.TTF"
+  },
+  {
+    "id": "1778392170030",
+    "category": "Self-Financed PG",
+    "courseName": "MJMC",
+    "subjectCode": "JNW-248",
+    "subjectName": "Test Subject JNW",
+    "year": 2019,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:30.828Z",
+    "fileName": "High Speed.ttf",
+    "fileSize": 45800,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/1st/JNW-248_1778392170030.ttf"
   }
 ]
