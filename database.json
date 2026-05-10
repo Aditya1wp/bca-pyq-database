@@ -1260,5 +1260,20 @@
     "fileName": "up1.png",
     "fileSize": 1875,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/2nd/MSK-440_1778390679044.png"
+  },
+  {
+    "id": "1778390684002",
+    "category": "Self-Financed UG",
+    "courseName": "Biotechnology",
+    "subjectCode": "UHZ-054",
+    "subjectName": "Test Subject UHZ",
+    "year": 2025,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:44.697Z",
+    "fileName": "up2.png",
+    "fileSize": 1909,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/6th/UHZ-054_1778390684002.png"
   }
 ]
