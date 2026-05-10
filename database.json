@@ -4935,5 +4935,20 @@
     "fileName": "TheWitcher.otf",
     "fileSize": 11504,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/2nd/WQQ-641_1778392820734.otf"
+  },
+  {
+    "id": "1778392826192",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "LKX-135",
+    "subjectName": "Test Subject LKX",
+    "year": 2021,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T06:00:27.075Z",
+    "fileName": "Think Smart .ttf",
+    "fileSize": 23244,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/5th/LKX-135_1778392826192.ttf"
   }
 ]
