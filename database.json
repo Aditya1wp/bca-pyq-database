@@ -2610,5 +2610,20 @@
     "fileName": "ethnocentric rg.ttf",
     "fileSize": 62936,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/5th/PEW-681_1778391934010.ttf"
+  },
+  {
+    "id": "1778391939537",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Music",
+    "subjectCode": "GKF-176",
+    "subjectName": "Test Subject GKF",
+    "year": 2014,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:40.328Z",
+    "fileName": "Evil Empire 400.otf",
+    "fileSize": 45956,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/7th/GKF-176_1778391939537.otf"
   }
 ]
