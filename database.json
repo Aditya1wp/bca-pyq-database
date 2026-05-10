@@ -2445,5 +2445,20 @@
     "fileName": "Dungeonsanddragons.otf",
     "fileSize": 33384,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/1st/XDY-815_1778391872851.otf"
+  },
+  {
+    "id": "1778391878689",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "ZRV-052",
+    "subjectName": "Test Subject ZRV",
+    "year": 2018,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:39.546Z",
+    "fileName": "earwig factory rg.otf",
+    "fileSize": 53940,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/3rd/ZRV-052_1778391878689.otf"
   }
 ]
