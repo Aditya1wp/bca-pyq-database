@@ -3660,5 +3660,20 @@
     "fileName": "LEMONMILK-LightItalic.otf",
     "fileSize": 34496,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/1st/FJL-716_1778392336627.otf"
+  },
+  {
+    "id": "1778392342048",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "WCJ-733",
+    "subjectName": "Test Subject WCJ",
+    "year": 2010,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:22.889Z",
+    "fileName": "LEMONMILK-Medium.otf",
+    "fileSize": 33760,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/4th/WCJ-733_1778392342048.otf"
   }
 ]
