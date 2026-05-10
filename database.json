@@ -1920,5 +1920,20 @@
     "fileName": "BLASTIMO SANS.ttf",
     "fileSize": 84396,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/4th/BEE-844_1778391661335.ttf"
+  },
+  {
+    "id": "1778391667815",
+    "category": "Self-Financed UG",
+    "courseName": "BBA",
+    "subjectCode": "AFY-563",
+    "subjectName": "Test Subject AFY",
+    "year": 2016,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:08.886Z",
+    "fileName": "Blastimo Swash.ttf",
+    "fileSize": 814888,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/8th/AFY-563_1778391667815.ttf"
   }
 ]
