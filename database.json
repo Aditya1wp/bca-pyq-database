@@ -2070,5 +2070,20 @@
     "fileName": "Cocogoose Regular.ttf",
     "fileSize": 741800,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/6th/BWJ-787_1778391720506.ttf"
+  },
+  {
+    "id": "1778391726729",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Environmental Science",
+    "subjectCode": "EII-845",
+    "subjectName": "Test Subject EII",
+    "year": 2014,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:42:07.765Z",
+    "fileName": "Cocogoose-Pro-Bold-Italic-trial.ttf",
+    "fileSize": 232172,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/1st/EII-845_1778391726729.ttf"
   }
 ]
