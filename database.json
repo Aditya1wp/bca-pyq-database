@@ -3270,5 +3270,20 @@
     "fileName": "I KNOW A GHOST.ttf",
     "fileSize": 449084,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/2nd/LAC-949_1778392182343.ttf"
+  },
+  {
+    "id": "1778392188224",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "SGD-875",
+    "subjectName": "Test Subject SGD",
+    "year": 2013,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:49.193Z",
+    "fileName": "IronManOfWar2Ncv-E85l.ttf",
+    "fileSize": 90364,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/7th/SGD-875_1778392188224.ttf"
   }
 ]
