@@ -870,5 +870,20 @@
     "fileName": "downclaw1.png",
     "fileSize": 1910,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/6th/ACO-122_1778390549107.png"
+  },
+  {
+    "id": "1778390553980",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "MGB-971",
+    "subjectName": "Test Subject MGB",
+    "year": 2019,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:34.728Z",
+    "fileName": "downclaw2.png",
+    "fileSize": 1899,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/6th/MGB-971_1778390553980.png"
   }
 ]
