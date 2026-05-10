@@ -2025,5 +2025,20 @@
     "fileName": "Caribbean.ttf",
     "fileSize": 25080,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/6th/PSC-233_1778391702883.ttf"
+  },
+  {
+    "id": "1778391708346",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "LUY-034",
+    "subjectName": "Test Subject LUY",
+    "year": 2015,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:49.155Z",
+    "fileName": "Casanova Scotia.otf",
+    "fileSize": 20656,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/LUY-034_1778391708346.otf"
   }
 ]
