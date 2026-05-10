@@ -3495,5 +3495,20 @@
     "fileName": "JurassicPark-BL48.ttf",
     "fileSize": 41220,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/3rd/OYA-648_1778392274083.ttf"
+  },
+  {
+    "id": "1778392279762",
+    "category": "PG Diploma",
+    "courseName": "Yogic Science",
+    "subjectCode": "KRI-742",
+    "subjectName": "Test Subject KRI",
+    "year": 2020,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:20.633Z",
+    "fileName": "JUSTICE LEAGUE.ttf",
+    "fileSize": 39256,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/4th/KRI-742_1778392279762.ttf"
   }
 ]
