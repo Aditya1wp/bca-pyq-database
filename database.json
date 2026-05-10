@@ -1095,5 +1095,20 @@
     "fileName": "left2.png",
     "fileSize": 1897,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/3rd/EOF-182_1778390623690.png"
+  },
+  {
+    "id": "1778390628640",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "ACJ-062",
+    "subjectName": "Test Subject ACJ",
+    "year": 2020,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:49.440Z",
+    "fileName": "leftclaw1.png",
+    "fileSize": 1909,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/1st/ACJ-062_1778390628640.png"
   }
 ]
