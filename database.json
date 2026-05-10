@@ -3135,5 +3135,20 @@
     "fileName": "Gobold Uplow Italic.otf",
     "fileSize": 23232,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/4th/ONF-291_1778392129819.otf"
+  },
+  {
+    "id": "1778392135125",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "TND-950",
+    "subjectName": "Test Subject TND",
+    "year": 2014,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:55.876Z",
+    "fileName": "Gobold Uplow.otf",
+    "fileSize": 20300,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/1st/TND-950_1778392135125.otf"
   }
 ]
