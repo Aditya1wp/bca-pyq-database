@@ -3075,5 +3075,20 @@
     "fileName": "Gobold Hollow.otf",
     "fileSize": 29676,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/EEI-868_1778392108260.otf"
+  },
+  {
+    "id": "1778392113498",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Environmental Science",
+    "subjectCode": "VWP-378",
+    "subjectName": "Test Subject VWP",
+    "year": 2016,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:34.301Z",
+    "fileName": "Gobold Light.otf",
+    "fileSize": 18940,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/4th/VWP-378_1778392113498.otf"
   }
 ]
