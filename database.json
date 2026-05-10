@@ -2130,5 +2130,20 @@
     "fileName": "Cocogoose-Pro-Darkmode-trial.ttf",
     "fileSize": 245960,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/7th/ZHK-138_1778391745265.ttf"
+  },
+  {
+    "id": "1778391751422",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "WIG-435",
+    "subjectName": "Test Subject WIG",
+    "year": 2013,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:42:32.324Z",
+    "fileName": "Cocogoose-Pro-Italic-trial.ttf",
+    "fileSize": 224680,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/WIG-435_1778391751422.ttf"
   }
 ]
