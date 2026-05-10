@@ -4860,5 +4860,20 @@
     "fileName": "The Devil Net.ttf",
     "fileSize": 201360,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/4th/CIV-939_1778392790619.ttf"
+  },
+  {
+    "id": "1778392796795",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "IEI-245",
+    "subjectName": "Test Subject IEI",
+    "year": 2022,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:57.737Z",
+    "fileName": "The Last Of Us Rough.ttf",
+    "fileSize": 172112,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/1st/IEI-245_1778392796795.ttf"
   }
 ]
