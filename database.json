@@ -3990,5 +3990,20 @@
     "fileName": "Moonrising Italic.ttf",
     "fileSize": 30612,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/8th/THF-783_1778392463964.ttf"
+  },
+  {
+    "id": "1778392469551",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "EQA-789",
+    "subjectName": "Test Subject EQA",
+    "year": 2011,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:30.361Z",
+    "fileName": "Moonrising.otf",
+    "fileSize": 31880,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/7th/EQA-789_1778392469551.otf"
   }
 ]
