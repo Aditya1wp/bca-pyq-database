@@ -1785,5 +1785,20 @@
     "fileName": "Baramond Italic.ttf",
     "fileSize": 51924,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/FSX-754_1778391611194.ttf"
+  },
+  {
+    "id": "1778391617059",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "DWK-434",
+    "subjectName": "Test Subject DWK",
+    "year": 2018,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:17.911Z",
+    "fileName": "Baramond.ttf",
+    "fileSize": 52480,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/5th/DWK-434_1778391617059.ttf"
   }
 ]
