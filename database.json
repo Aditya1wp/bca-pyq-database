@@ -3405,5 +3405,20 @@
     "fileName": "JMH Typewriter.ttf",
     "fileSize": 396036,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/5th/TDM-745_1778392239719.ttf"
+  },
+  {
+    "id": "1778392245579",
+    "category": "Self-Financed UG",
+    "courseName": "B.MC",
+    "subjectCode": "REO-620",
+    "subjectName": "Test Subject REO",
+    "year": 2022,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:46.407Z",
+    "fileName": "Jojoba.otf",
+    "fileSize": 91904,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/6th/REO-620_1778392245579.otf"
   }
 ]
