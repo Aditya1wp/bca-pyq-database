@@ -1650,5 +1650,20 @@
     "fileName": "Avatar Water.ttf",
     "fileSize": 207908,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/5th/OBL-845_1778391561617.ttf"
+  },
+  {
+    "id": "1778391567258",
+    "category": "PG Diploma",
+    "courseName": "Yogic Science",
+    "subjectCode": "JKM-425",
+    "subjectName": "Test Subject JKM",
+    "year": 2015,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:28.052Z",
+    "fileName": "Avengers.ttf",
+    "fileSize": 31656,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/8th/JKM-425_1778391567258.ttf"
   }
 ]
