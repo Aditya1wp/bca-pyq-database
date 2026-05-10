@@ -1755,5 +1755,20 @@
     "fileName": "Baramond Bold Italic.ttf",
     "fileSize": 52088,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/5th/CPH-715_1778391599969.ttf"
+  },
+  {
+    "id": "1778391605503",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "GUZ-296",
+    "subjectName": "Test Subject GUZ",
+    "year": 2018,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:06.222Z",
+    "fileName": "Baramond Bold.ttf",
+    "fileSize": 52940,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/1st/GUZ-296_1778391605503.ttf"
   }
 ]
