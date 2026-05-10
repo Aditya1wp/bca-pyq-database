@@ -3375,5 +3375,20 @@
     "fileName": "JMH Typewriter-Thin.ttf",
     "fileSize": 614524,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/3rd/ODT-760_1778392226791.ttf"
+  },
+  {
+    "id": "1778392233015",
+    "category": "Self-Financed PG",
+    "courseName": "MSW",
+    "subjectCode": "OFK-105",
+    "subjectName": "Test Subject OFK",
+    "year": 2011,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:33.866Z",
+    "fileName": "JMH Typewriter.otf",
+    "fileSize": 201304,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/7th/OFK-105_1778392233015.otf"
   }
 ]
