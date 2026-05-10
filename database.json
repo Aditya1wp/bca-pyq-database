@@ -3090,5 +3090,20 @@
     "fileName": "Gobold Light.otf",
     "fileSize": 18940,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/4th/VWP-378_1778392113498.otf"
+  },
+  {
+    "id": "1778392118835",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "LWK-447",
+    "subjectName": "Test Subject LWK",
+    "year": 2010,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:39.596Z",
+    "fileName": "Gobold Lowplus.otf",
+    "fileSize": 19536,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/LWK-447_1778392118835.otf"
   }
 ]
