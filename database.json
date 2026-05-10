@@ -2700,5 +2700,20 @@
     "fileName": "Film Noir Italic.ttf",
     "fileSize": 13444,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/3rd/MKA-023_1778391967042.ttf"
+  },
+  {
+    "id": "1778391972159",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "BLC-187",
+    "subjectName": "Test Subject BLC",
+    "year": 2023,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:12.964Z",
+    "fileName": "Film Noir.otf",
+    "fileSize": 12540,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/3rd/BLC-187_1778391972159.otf"
   }
 ]
