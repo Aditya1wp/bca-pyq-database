@@ -2295,5 +2295,20 @@
     "fileName": "Cocogoose-Pro-Ultralight-trial.ttf",
     "fileSize": 249272,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/4th/QLJ-038_1778391817567.ttf"
+  },
+  {
+    "id": "1778391823429",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "UYU-890",
+    "subjectName": "Test Subject UYU",
+    "year": 2021,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:44.382Z",
+    "fileName": "Coolvetica-condensed.ttf",
+    "fileSize": 154268,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/2nd/UYU-890_1778391823429.ttf"
   }
 ]
