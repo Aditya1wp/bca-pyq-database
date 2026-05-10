@@ -5010,5 +5010,20 @@
     "fileName": "Transformers Movie.ttf",
     "fileSize": 49380,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__biotechnology/7th/ZGY-910_1778392848761.ttf"
+  },
+  {
+    "id": "1778392854691",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "BQM-168",
+    "subjectName": "Test Subject BQM",
+    "year": 2012,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T06:00:55.655Z",
+    "fileName": "Typography.otf",
+    "fileSize": 115012,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/2nd/BQM-168_1778392854691.otf"
   }
 ]
