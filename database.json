@@ -4695,5 +4695,20 @@
     "fileName": "Sequel100Black-76.ttf",
     "fileSize": 49900,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/3rd/KHJ-253_1778392728804.ttf"
+  },
+  {
+    "id": "1778392734366",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "UTM-903",
+    "subjectName": "Test Subject UTM",
+    "year": 2021,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:55.200Z",
+    "fileName": "ShangChi.ttf",
+    "fileSize": 28564,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/5th/UTM-903_1778392734366.ttf"
   }
 ]
