@@ -4800,5 +4800,20 @@
     "fileName": "supercellmagic.ttf",
     "fileSize": 71044,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/3rd/ZXL-884_1778392767618.ttf"
+  },
+  {
+    "id": "1778392773244",
+    "category": "Self-Financed PG",
+    "courseName": "PMIR",
+    "subjectCode": "IHT-979",
+    "subjectName": "Test Subject IHT",
+    "year": 2018,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:34.017Z",
+    "fileName": "terminator real nfi.ttf",
+    "fileSize": 24396,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pmir/4th/IHT-979_1778392773244.ttf"
   }
 ]
