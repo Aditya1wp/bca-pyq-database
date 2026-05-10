@@ -2250,5 +2250,20 @@
     "fileName": "Cocogoose-Pro-Thin-Italic-trial.ttf",
     "fileSize": 222552,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/AKP-289_1778391798710.ttf"
+  },
+  {
+    "id": "1778391804961",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "RAA-201",
+    "subjectName": "Test Subject RAA",
+    "year": 2021,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:25.885Z",
+    "fileName": "Cocogoose-Pro-Thin-trial.ttf",
+    "fileSize": 246148,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/7th/RAA-201_1778391804961.ttf"
   }
 ]
