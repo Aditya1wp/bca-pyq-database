@@ -2040,5 +2040,20 @@
     "fileName": "Casanova Scotia.otf",
     "fileSize": 20656,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/LUY-034_1778391708346.otf"
+  },
+  {
+    "id": "1778391714148",
+    "category": "Self-Financed UG",
+    "courseName": "Functional English",
+    "subjectCode": "TIE-741",
+    "subjectName": "Test Subject TIE",
+    "year": 2025,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:54.993Z",
+    "fileName": "CatCafe.ttf",
+    "fileSize": 129848,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/1st/TIE-741_1778391714148.ttf"
   }
 ]
