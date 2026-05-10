@@ -3705,5 +3705,20 @@
     "fileName": "LEMONMILK-Regular.otf",
     "fileSize": 34568,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/VBW-907_1778392352991.otf"
+  },
+  {
+    "id": "1778392358492",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "RQJ-369",
+    "subjectName": "Test Subject RQJ",
+    "year": 2022,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:39.347Z",
+    "fileName": "LEMONMILK-RegularItalic.otf",
+    "fileSize": 34816,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/RQJ-369_1778392358492.otf"
   }
 ]
