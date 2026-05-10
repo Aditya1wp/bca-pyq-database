@@ -3165,5 +3165,20 @@
     "fileName": "Goldest-Personal.otf",
     "fileSize": 315208,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/2nd/LOV-753_1778392141176.otf"
+  },
+  {
+    "id": "1778392147356",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "IUZ-156",
+    "subjectName": "Test Subject IUZ",
+    "year": 2017,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:08.330Z",
+    "fileName": "GothicJoker-gxxGP.ttf",
+    "fileSize": 121768,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/8th/IUZ-156_1778392147356.ttf"
   }
 ]
