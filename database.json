@@ -1950,5 +1950,20 @@
     "fileName": "Blastimo.ttf",
     "fileSize": 539216,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/6th/XNN-188_1778391674439.ttf"
+  },
+  {
+    "id": "1778391679963",
+    "category": "Self-Financed PG",
+    "courseName": "MBA",
+    "subjectCode": "RUF-241",
+    "subjectName": "Test Subject RUF",
+    "year": 2015,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:20.786Z",
+    "fileName": "Blue_Beetle.ttf",
+    "fileSize": 35444,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/3rd/RUF-241_1778391679963.ttf"
   }
 ]
