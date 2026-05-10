@@ -3720,5 +3720,20 @@
     "fileName": "LEMONMILK-RegularItalic.otf",
     "fileSize": 34816,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/RQJ-369_1778392358492.otf"
+  },
+  {
+    "id": "1778392364717",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "UQG-056",
+    "subjectName": "Test Subject UQG",
+    "year": 2015,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:45.645Z",
+    "fileName": "Letters for Learners Dots.ttf",
+    "fileSize": 253628,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/2nd/UQG-056_1778392364717.ttf"
   }
 ]
