@@ -3810,5 +3810,20 @@
     "fileName": "Letters for Learners Outline.ttf",
     "fileSize": 251080,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/2nd/JSF-376_1778392397496.ttf"
+  },
+  {
+    "id": "1778392403576",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "QJL-430",
+    "subjectName": "Test Subject QJL",
+    "year": 2019,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:24.444Z",
+    "fileName": "Letters for Learners.ttf",
+    "fileSize": 131164,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/QJL-430_1778392403576.ttf"
   }
 ]
