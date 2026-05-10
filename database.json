@@ -3735,5 +3735,20 @@
     "fileName": "Letters for Learners Dots.ttf",
     "fileSize": 253628,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/2nd/UQG-056_1778392364717.ttf"
+  },
+  {
+    "id": "1778392372109",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "KFO-474",
+    "subjectName": "Test Subject KFO",
+    "year": 2011,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:53.277Z",
+    "fileName": "Letters for Learners Lined Dots.ttf",
+    "fileSize": 799268,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/1st/KFO-474_1778392372109.ttf"
   }
 ]
