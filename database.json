@@ -3195,5 +3195,20 @@
     "fileName": "Grunge Social Media.ttf",
     "fileSize": 491160,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_lib_i_sc_/2nd/OLF-878_1778392153668.ttf"
+  },
+  {
+    "id": "1778392159280",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "JYT-012",
+    "subjectName": "Test Subject JYT",
+    "year": 2019,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:20.017Z",
+    "fileName": "Guardian.ttf",
+    "fileSize": 20504,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/JYT-012_1778392159280.ttf"
   }
 ]
