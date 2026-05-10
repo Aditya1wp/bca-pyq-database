@@ -1200,5 +1200,20 @@
     "fileName": "scratch1.png",
     "fileSize": 1927,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/3rd/YRU-112_1778390658986.png"
+  },
+  {
+    "id": "1778390664014",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "IEF-118",
+    "subjectName": "Test Subject IEF",
+    "year": 2011,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:24.763Z",
+    "fileName": "scratch2.png",
+    "fileSize": 1899,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/IEF-118_1778390664014.png"
   }
 ]
