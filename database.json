@@ -810,5 +810,20 @@
     "fileSize": 684722,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/2nd/_GE2_1778342546405.pdf",
     "verified": true
+  },
+  {
+    "id": "1778390533881",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "RPE-416",
+    "subjectName": "Test Subject RPE",
+    "year": 2012,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:14.725Z",
+    "fileName": "awake.png",
+    "fileSize": 1945,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/8th/RPE-416_1778390533881.png"
   }
 ]
