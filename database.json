@@ -1080,5 +1080,20 @@
     "fileName": "ww.gif",
     "fileSize": 1909070,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/ZZG-861_1778403135339.gif"
+  },
+  {
+    "id": "1778403142661",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "LHI-669",
+    "subjectName": "Test Subject LHI",
+    "year": 2024,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:52:23.753Z",
+    "fileName": "www.gif",
+    "fileSize": 884616,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/LHI-669_1778403142661.gif"
   }
 ]
