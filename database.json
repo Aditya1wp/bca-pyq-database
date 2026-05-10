@@ -4710,5 +4710,20 @@
     "fileName": "ShangChi.ttf",
     "fileSize": 28564,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/5th/UTM-903_1778392734366.ttf"
+  },
+  {
+    "id": "1778392739562",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "BJE-854",
+    "subjectName": "Test Subject BJE",
+    "year": 2014,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:00.371Z",
+    "fileName": "SpeedyRegular-7BLoE.ttf",
+    "fileSize": 62036,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/6th/BJE-854_1778392739562.ttf"
   }
 ]
