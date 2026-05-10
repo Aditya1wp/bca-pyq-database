@@ -2100,5 +2100,20 @@
     "fileName": "Cocogoose-Pro-Bold-trial.ttf",
     "fileSize": 250132,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/1st/HFG-671_1778391733355.ttf"
+  },
+  {
+    "id": "1778391739352",
+    "category": "PG Diploma",
+    "courseName": "Industrial Safety Management",
+    "subjectCode": "WSI-403",
+    "subjectName": "Test Subject WSI",
+    "year": 2015,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:42:20.160Z",
+    "fileName": "Cocogoose-Pro-Darkmode-Italic-trial.ttf",
+    "fileSize": 224396,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/3rd/WSI-403_1778391739352.ttf"
   }
 ]
