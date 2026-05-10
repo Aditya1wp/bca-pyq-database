@@ -3780,5 +3780,20 @@
     "fileName": "Letters for Learners Outline Bold.ttf",
     "fileSize": 186392,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/5th/YDH-406_1778392384809.ttf"
+  },
+  {
+    "id": "1778392390977",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "YQF-752",
+    "subjectName": "Test Subject YQF",
+    "year": 2011,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:11.947Z",
+    "fileName": "Letters for Learners Outline Light.ttf",
+    "fileSize": 183076,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/3rd/YQF-752_1778392390977.ttf"
   }
 ]
