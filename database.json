@@ -4170,5 +4170,20 @@
     "fileName": "Overthink.ttf",
     "fileSize": 26308,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/2nd/GXD-885_1778392530707.ttf"
+  },
+  {
+    "id": "1778392536614",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "WUZ-812",
+    "subjectName": "Test Subject WUZ",
+    "year": 2021,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:55:37.573Z",
+    "fileName": "PanicStricken.ttf",
+    "fileSize": 225836,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/WUZ-812_1778392536614.ttf"
   }
 ]
