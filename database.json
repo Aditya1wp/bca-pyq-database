@@ -1245,5 +1245,20 @@
     "fileName": "sleep2.png",
     "fileSize": 1837,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/7th/EOL-610_1778390674081.png"
+  },
+  {
+    "id": "1778390679044",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "MSK-440",
+    "subjectName": "Test Subject MSK",
+    "year": 2010,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:39.765Z",
+    "fileName": "up1.png",
+    "fileSize": 1875,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/2nd/MSK-440_1778390679044.png"
   }
 ]
