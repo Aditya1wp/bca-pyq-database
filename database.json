@@ -2325,5 +2325,20 @@
     "fileName": "couture-bld.otf",
     "fileSize": 6196,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/3rd/CBF-020_1778391828672.otf"
+  },
+  {
+    "id": "1778391833706",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "ZIM-545",
+    "subjectName": "Test Subject ZIM",
+    "year": 2017,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:54.498Z",
+    "fileName": "couture-bldit.otf",
+    "fileSize": 6676,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/7th/ZIM-545_1778391833706.otf"
   }
 ]
