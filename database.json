@@ -3240,5 +3240,20 @@
     "fileName": "High Speed.ttf",
     "fileSize": 45800,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/1st/JNW-248_1778392170030.ttf"
+  },
+  {
+    "id": "1778392175918",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "JZI-831",
+    "subjectName": "Test Subject JZI",
+    "year": 2013,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:36.737Z",
+    "fileName": "homoarakhn.regular.ttf",
+    "fileSize": 18156,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/JZI-831_1778392175918.ttf"
   }
 ]
