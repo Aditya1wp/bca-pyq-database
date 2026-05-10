@@ -1275,5 +1275,20 @@
     "fileName": "up2.png",
     "fileSize": 1909,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/6th/UHZ-054_1778390684002.png"
+  },
+  {
+    "id": "1778390688990",
+    "category": "Self-Financed PG",
+    "courseName": "MBA",
+    "subjectCode": "ZFP-423",
+    "subjectName": "Test Subject ZFP",
+    "year": 2025,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:49.657Z",
+    "fileName": "upclaw1.png",
+    "fileSize": 1948,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/6th/ZFP-423_1778390688990.png"
   }
 ]
