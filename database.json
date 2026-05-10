@@ -1050,5 +1050,20 @@
     "fileName": "fp_upleft.png",
     "fileSize": 1639,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/1st/CLQ-672_1778390608887.png"
+  },
+  {
+    "id": "1778390613930",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "XMO-089",
+    "subjectName": "Test Subject XMO",
+    "year": 2017,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:34.630Z",
+    "fileName": "fp_upright.png",
+    "fileSize": 1637,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/5th/XMO-089_1778390613930.png"
   }
 ]
