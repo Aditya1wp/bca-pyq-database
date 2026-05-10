@@ -2715,5 +2715,20 @@
     "fileName": "Film Noir.otf",
     "fileSize": 12540,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/3rd/BLC-187_1778391972159.otf"
+  },
+  {
+    "id": "1778391977242",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "PCZ-064",
+    "subjectName": "Test Subject PCZ",
+    "year": 2014,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:18.055Z",
+    "fileName": "Film Noir.ttf",
+    "fileSize": 12540,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/5th/PCZ-064_1778391977242.ttf"
   }
 ]
