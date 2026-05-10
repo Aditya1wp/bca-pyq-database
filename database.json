@@ -3420,5 +3420,20 @@
     "fileName": "Jojoba.otf",
     "fileSize": 91904,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/6th/REO-620_1778392245579.otf"
+  },
+  {
+    "id": "1778392251219",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "GEN-452",
+    "subjectName": "Test Subject GEN",
+    "year": 2020,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:52.093Z",
+    "fileName": "Josefin Sans Italic.ttf",
+    "fileSize": 84916,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/GEN-452_1778392251219.ttf"
   }
 ]
