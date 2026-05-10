@@ -3315,5 +3315,20 @@
     "fileName": "JMH Typewriter-Black.ttf",
     "fileSize": 449732,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/5th/BPL-977_1778392200830.ttf"
+  },
+  {
+    "id": "1778392207247",
+    "category": "Regular UG",
+    "courseName": "B.Com. Hons",
+    "subjectCode": "YIQ-931",
+    "subjectName": "Test Subject YIQ",
+    "year": 2023,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:08.230Z",
+    "fileName": "JMH Typewriter-Bold.otf",
+    "fileSize": 174580,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/7th/YIQ-931_1778392207247.otf"
   }
 ]
