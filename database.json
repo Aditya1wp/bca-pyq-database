@@ -1575,5 +1575,20 @@
     "fileName": "Aquawax Black Trial.ttf",
     "fileSize": 235596,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/OEL-565_1778391534234.ttf"
+  },
+  {
+    "id": "1778391539622",
+    "category": "Self-Financed PG",
+    "courseName": "MJMC",
+    "subjectCode": "WPD-646",
+    "subjectName": "Test Subject WPD",
+    "year": 2015,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:00.354Z",
+    "fileName": "Artifact.otf",
+    "fileSize": 24052,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/8th/WPD-646_1778391539622.otf"
   }
 ]
