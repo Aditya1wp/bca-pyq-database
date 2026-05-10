@@ -3630,5 +3630,20 @@
     "fileName": "LEMONMILK-BoldItalic.otf",
     "fileSize": 34776,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/RJN-965_1778392325595.otf"
+  },
+  {
+    "id": "1778392330956",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Women's Studies",
+    "subjectCode": "ICJ-210",
+    "subjectName": "Test Subject ICJ",
+    "year": 2020,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:11.816Z",
+    "fileName": "LEMONMILK-Light.otf",
+    "fileSize": 33652,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__women_s_studies/3rd/ICJ-210_1778392330956.otf"
   }
 ]
