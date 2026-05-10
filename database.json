@@ -2775,5 +2775,20 @@
     "fileName": "Fineday-StyleTwo.ttf",
     "fileSize": 185648,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/7th/VUS-268_1778391995167.ttf"
+  },
+  {
+    "id": "1778392000868",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Women's Studies",
+    "subjectCode": "QUW-087",
+    "subjectName": "Test Subject QUW",
+    "year": 2016,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:41.753Z",
+    "fileName": "Fineday-StyleTwonon-connect.ttf",
+    "fileSize": 148476,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__women_s_studies/2nd/QUW-087_1778392000868.ttf"
   }
 ]
