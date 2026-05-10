@@ -4770,5 +4770,20 @@
     "fileName": "Stranger Things.ttf",
     "fileSize": 69028,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/1st/WOP-753_1778392756578.ttf"
+  },
+  {
+    "id": "1778392762033",
+    "category": "Regular UG",
+    "courseName": "B.Com. Hons",
+    "subjectCode": "SUJ-354",
+    "subjectName": "Test Subject SUJ",
+    "year": 2013,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:22.866Z",
+    "fileName": "Strong-Regular.ttf",
+    "fileSize": 11192,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/6th/SUJ-354_1778392762033.ttf"
   }
 ]
