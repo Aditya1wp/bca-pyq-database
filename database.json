@@ -2460,5 +2460,20 @@
     "fileName": "earwig factory rg.otf",
     "fileSize": 53940,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/3rd/ZRV-052_1778391878689.otf"
+  },
+  {
+    "id": "1778391884306",
+    "category": "Regular UG",
+    "courseName": "B.Com. Hons",
+    "subjectCode": "KOL-087",
+    "subjectName": "Test Subject KOL",
+    "year": 2017,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:45.110Z",
+    "fileName": "EarwigFactory Regular.ttf",
+    "fileSize": 63900,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/7th/KOL-087_1778391884306.ttf"
   }
 ]
