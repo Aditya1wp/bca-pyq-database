@@ -3285,5 +3285,20 @@
     "fileName": "IronManOfWar2Ncv-E85l.ttf",
     "fileSize": 90364,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/7th/SGD-875_1778392188224.ttf"
+  },
+  {
+    "id": "1778392194398",
+    "category": "Self-Financed PG",
+    "courseName": "MJMC",
+    "subjectCode": "MUT-902",
+    "subjectName": "Test Subject MUT",
+    "year": 2012,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:55.300Z",
+    "fileName": "JMH Typewriter-Black.otf",
+    "fileSize": 179392,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/6th/MUT-902_1778392194398.otf"
   }
 ]
