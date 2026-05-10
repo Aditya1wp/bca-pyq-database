@@ -3600,5 +3600,20 @@
     "fileName": "kremlin.ttf",
     "fileSize": 7316,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_lib_i_sc_/1st/GWB-517_1778392315085.ttf"
+  },
+  {
+    "id": "1778392320339",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Environmental Science",
+    "subjectCode": "HPM-386",
+    "subjectName": "Test Subject HPM",
+    "year": 2018,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:01.109Z",
+    "fileName": "LEMONMILK-Bold.otf",
+    "fileSize": 34596,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/1st/HPM-386_1778392320339.otf"
   }
 ]
