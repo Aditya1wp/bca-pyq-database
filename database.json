@@ -2055,5 +2055,20 @@
     "fileName": "CatCafe.ttf",
     "fileSize": 129848,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/1st/TIE-741_1778391714148.ttf"
+  },
+  {
+    "id": "1778391720506",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "BWJ-787",
+    "subjectName": "Test Subject BWJ",
+    "year": 2023,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:42:01.457Z",
+    "fileName": "Cocogoose Regular.ttf",
+    "fileSize": 741800,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/6th/BWJ-787_1778391720506.ttf"
   }
 ]
