@@ -2280,5 +2280,20 @@
     "fileName": "Cocogoose-Pro-Ultralight-Italic-trial.ttf",
     "fileSize": 224900,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/2nd/YJY-962_1778391811223.ttf"
+  },
+  {
+    "id": "1778391817567",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "QLJ-038",
+    "subjectName": "Test Subject QLJ",
+    "year": 2016,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:38.443Z",
+    "fileName": "Cocogoose-Pro-Ultralight-trial.ttf",
+    "fileSize": 249272,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/4th/QLJ-038_1778391817567.ttf"
   }
 ]
