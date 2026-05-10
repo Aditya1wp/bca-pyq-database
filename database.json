@@ -4290,5 +4290,20 @@
     "fileName": "raidercrusader.ttf",
     "fileSize": 26960,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/4th/OGV-839_1778392575027.ttf"
+  },
+  {
+    "id": "1778392580647",
+    "category": "PG Diploma",
+    "courseName": "Industrial Safety Management",
+    "subjectCode": "IAT-183",
+    "subjectName": "Test Subject IAT",
+    "year": 2011,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:21.529Z",
+    "fileName": "raidercrusaderbevel.ttf",
+    "fileSize": 57428,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/8th/IAT-183_1778392580647.ttf"
   }
 ]
