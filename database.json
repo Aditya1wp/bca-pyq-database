@@ -2895,5 +2895,20 @@
     "fileName": "Game of Thrones.ttf",
     "fileSize": 28784,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/3rd/JRL-099_1778392041274.ttf"
+  },
+  {
+    "id": "1778392046885",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "IMY-579",
+    "subjectName": "Test Subject IMY",
+    "year": 2013,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:27.689Z",
+    "fileName": "Gemstone.ttf",
+    "fileSize": 32280,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/5th/IMY-579_1778392046885.ttf"
   }
 ]
