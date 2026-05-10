@@ -1290,5 +1290,20 @@
     "fileName": "upclaw1.png",
     "fileSize": 1948,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/6th/ZFP-423_1778390688990.png"
+  },
+  {
+    "id": "1778390693947",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "NKI-624",
+    "subjectName": "Test Subject NKI",
+    "year": 2024,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:54.720Z",
+    "fileName": "upclaw2.png",
+    "fileSize": 1942,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/7th/NKI-624_1778390693947.png"
   }
 ]
