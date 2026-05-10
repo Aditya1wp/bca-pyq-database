@@ -4335,5 +4335,20 @@
     "fileName": "raidercrusaderengrave.ttf",
     "fileSize": 79672,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/5th/YPK-825_1778392592525.ttf"
+  },
+  {
+    "id": "1778392598405",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "ASB-953",
+    "subjectName": "Test Subject ASB",
+    "year": 2023,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:39.261Z",
+    "fileName": "raidercrusadergrad.ttf",
+    "fileSize": 85676,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/7th/ASB-953_1778392598405.ttf"
   }
 ]
