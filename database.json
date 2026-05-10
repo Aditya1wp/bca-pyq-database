@@ -3330,5 +3330,20 @@
     "fileName": "JMH Typewriter-Bold.otf",
     "fileSize": 174580,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/7th/YIQ-931_1778392207247.otf"
+  },
+  {
+    "id": "1778392213730",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "UZK-982",
+    "subjectName": "Test Subject UZK",
+    "year": 2024,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:14.798Z",
+    "fileName": "JMH Typewriter-Bold.ttf",
+    "fileSize": 470960,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/6th/UZK-982_1778392213730.ttf"
   }
 ]
