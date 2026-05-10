@@ -4725,5 +4725,20 @@
     "fileName": "SpeedyRegular-7BLoE.ttf",
     "fileSize": 62036,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/6th/BJE-854_1778392739562.ttf"
+  },
+  {
+    "id": "1778392744971",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "RUR-265",
+    "subjectName": "Test Subject RUR",
+    "year": 2025,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:05.717Z",
+    "fileName": "Spider-Man.otf.ttf",
+    "fileSize": 18284,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/RUR-265_1778392744971.ttf"
   }
 ]
