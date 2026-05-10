@@ -3975,5 +3975,20 @@
     "fileName": "Moonrising Italic.otf",
     "fileSize": 30612,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/3rd/DKN-212_1778392458559.otf"
+  },
+  {
+    "id": "1778392463964",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "THF-783",
+    "subjectName": "Test Subject THF",
+    "year": 2017,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:24.802Z",
+    "fileName": "Moonrising Italic.ttf",
+    "fileSize": 30612,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/8th/THF-783_1778392463964.ttf"
   }
 ]
