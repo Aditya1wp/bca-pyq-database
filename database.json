@@ -3900,5 +3900,20 @@
     "fileName": "mandalore.ttf",
     "fileSize": 48868,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/8th/DUT-784_1778392430755.ttf"
+  },
+  {
+    "id": "1778392436389",
+    "category": "Self-Financed PG",
+    "courseName": "MBA",
+    "subjectCode": "ZKX-554",
+    "subjectName": "Test Subject ZKX",
+    "year": 2024,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:57.179Z",
+    "fileName": "MAROLA__.TTF",
+    "fileSize": 59480,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/4th/ZKX-554_1778392436389.TTF"
   }
 ]
