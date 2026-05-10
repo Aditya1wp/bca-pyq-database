@@ -3360,5 +3360,20 @@
     "fileName": "JMH Typewriter-Thin.otf",
     "fileSize": 324348,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/2nd/IEH-400_1778392219899.otf"
+  },
+  {
+    "id": "1778392226791",
+    "category": "Self-Financed UG",
+    "courseName": "Biotechnology",
+    "subjectCode": "ODT-760",
+    "subjectName": "Test Subject ODT",
+    "year": 2018,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:27.883Z",
+    "fileName": "JMH Typewriter-Thin.ttf",
+    "fileSize": 614524,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/3rd/ODT-760_1778392226791.ttf"
   }
 ]
