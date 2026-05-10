@@ -4350,5 +4350,20 @@
     "fileName": "raidercrusadergrad.ttf",
     "fileSize": 85676,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/7th/ASB-953_1778392598405.ttf"
+  },
+  {
+    "id": "1778392603805",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "JQX-846",
+    "subjectName": "Test Subject JQX",
+    "year": 2018,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:44.589Z",
+    "fileName": "raidercrusaderital.ttf",
+    "fileSize": 27544,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/JQX-846_1778392603805.ttf"
   }
 ]
