@@ -1005,5 +1005,20 @@
     "fileName": "fp_left.png",
     "fileSize": 1656,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/2nd/VYP-870_1778390593806.png"
+  },
+  {
+    "id": "1778390598891",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "ATY-663",
+    "subjectName": "Test Subject ATY",
+    "year": 2019,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:19.642Z",
+    "fileName": "fp_right.png",
+    "fileSize": 1667,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/7th/ATY-663_1778390598891.png"
   }
 ]
