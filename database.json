@@ -3150,5 +3150,20 @@
     "fileName": "Gobold Uplow.otf",
     "fileSize": 20300,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/1st/TND-950_1778392135125.otf"
+  },
+  {
+    "id": "1778392141176",
+    "category": "Self-Financed PG",
+    "courseName": "MJMC",
+    "subjectCode": "LOV-753",
+    "subjectName": "Test Subject LOV",
+    "year": 2022,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:02.236Z",
+    "fileName": "Goldest-Personal.otf",
+    "fileSize": 315208,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/2nd/LOV-753_1778392141176.otf"
   }
 ]
