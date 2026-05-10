@@ -1860,5 +1860,20 @@
     "fileName": "Beauty 400.otf",
     "fileSize": 38804,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/6th/ZIV-934_1778391639153.otf"
+  },
+  {
+    "id": "1778391644728",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "PGD-362",
+    "subjectName": "Test Subject PGD",
+    "year": 2010,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:45.498Z",
+    "fileName": "BeautyDemo.otf",
+    "fileSize": 38804,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/PGD-362_1778391644728.otf"
   }
 ]
