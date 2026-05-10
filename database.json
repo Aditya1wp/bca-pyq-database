@@ -4605,5 +4605,20 @@
     "fileName": "Seagram tfb 400.ttf",
     "fileSize": 41344,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/2nd/YPN-993_1778392694006.ttf"
+  },
+  {
+    "id": "1778392700096",
+    "category": "Self-Financed PG",
+    "courseName": "MSW",
+    "subjectCode": "SRL-637",
+    "subjectName": "Test Subject SRL",
+    "year": 2014,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:21.031Z",
+    "fileName": "Senja Free Trial.otf",
+    "fileSize": 151172,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/6th/SRL-637_1778392700096.otf"
   }
 ]
