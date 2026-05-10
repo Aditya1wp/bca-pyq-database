@@ -1515,5 +1515,20 @@
     "fileName": "American Captain.ttf",
     "fileSize": 79484,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/VNX-515_1778391511163.ttf"
+  },
+  {
+    "id": "1778391516812",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "BFD-404",
+    "subjectName": "Test Subject BFD",
+    "year": 2010,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:37.604Z",
+    "fileName": "Andes.ttf",
+    "fileSize": 22528,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/3rd/BFD-404_1778391516812.ttf"
   }
 ]
