@@ -915,5 +915,20 @@
     "fileName": "downleft2.png",
     "fileSize": 1931,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/2nd/CYI-981_1778390563964.png"
+  },
+  {
+    "id": "1778390569030",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "KAK-198",
+    "subjectName": "Test Subject KAK",
+    "year": 2023,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:49.826Z",
+    "fileName": "downright1.png",
+    "fileSize": 1957,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/KAK-198_1778390569030.png"
   }
 ]
