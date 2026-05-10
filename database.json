@@ -2850,5 +2850,20 @@
     "fileName": "Future Man.ttf",
     "fileSize": 122644,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/4th/TGB-187_1778392024752.ttf"
+  },
+  {
+    "id": "1778392030331",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "EPD-860",
+    "subjectName": "Test Subject EPD",
+    "year": 2019,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:11.183Z",
+    "fileName": "Game Of Squids.otf",
+    "fileSize": 26772,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/5th/EPD-860_1778392030331.otf"
   }
 ]
