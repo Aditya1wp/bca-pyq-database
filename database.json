@@ -1965,5 +1965,20 @@
     "fileName": "Blue_Beetle.ttf",
     "fileSize": 35444,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mba/3rd/RUF-241_1778391679963.ttf"
+  },
+  {
+    "id": "1778391686266",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "ABC-449",
+    "subjectName": "Test Subject ABC",
+    "year": 2024,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:27.132Z",
+    "fileName": "Brush Shapes.ttf",
+    "fileSize": 316924,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/ABC-449_1778391686266.ttf"
   }
 ]
