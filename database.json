@@ -2655,5 +2655,20 @@
     "fileName": "Evogria.otf",
     "fileSize": 70736,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/2nd/LBL-726_1778391951111.otf"
+  },
+  {
+    "id": "1778391956433",
+    "category": "Regular UG",
+    "courseName": "B.Com. Hons",
+    "subjectCode": "LYF-715",
+    "subjectName": "Test Subject LYF",
+    "year": 2016,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:57.220Z",
+    "fileName": "fighting spirit TBS_bold.ttf",
+    "fileSize": 31540,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/8th/LYF-715_1778391956433.ttf"
   }
 ]
