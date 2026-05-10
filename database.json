@@ -3465,5 +3465,20 @@
     "fileName": "jully julia.otf",
     "fileSize": 25372,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/WTO-343_1778392262574.otf"
+  },
+  {
+    "id": "1778392268458",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "SDR-078",
+    "subjectName": "Test Subject SDR",
+    "year": 2022,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:09.354Z",
+    "fileName": "jully julia.ttf",
+    "fileSize": 109636,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/8th/SDR-078_1778392268458.ttf"
   }
 ]
