@@ -2820,5 +2820,20 @@
     "fileName": "font by ispark.ttf",
     "fileSize": 31540,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/6th/QZZ-666_1778392013234.ttf"
+  },
+  {
+    "id": "1778392018590",
+    "category": "Self-Financed PG",
+    "courseName": "MJMC",
+    "subjectCode": "ZLO-362",
+    "subjectName": "Test Subject ZLO",
+    "year": 2012,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:59.424Z",
+    "fileName": "Friends.ttf",
+    "fileSize": 26756,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/4th/ZLO-362_1778392018590.ttf"
   }
 ]
