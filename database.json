@@ -1125,5 +1125,20 @@
     "fileName": "leftclaw2.png",
     "fileSize": 1906,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/3rd/DLX-392_1778390633626.png"
+  },
+  {
+    "id": "1778390638602",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "FMW-621",
+    "subjectName": "Test Subject FMW",
+    "year": 2010,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:59.375Z",
+    "fileName": "right1.png",
+    "fileSize": 1930,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/5th/FMW-621_1778390638602.png"
   }
 ]
