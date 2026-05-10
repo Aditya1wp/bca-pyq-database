@@ -840,5 +840,20 @@
     "fileName": "@melonmarklee.gif",
     "fileSize": 1822943,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/2nd/QYN-844_1778403000882.gif"
+  },
+  {
+    "id": "1778403008831",
+    "category": "Self-Financed PG",
+    "courseName": "MSW",
+    "subjectCode": "TUC-279",
+    "subjectName": "Test Subject TUC",
+    "year": 2010,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:50:10.099Z",
+    "fileName": "ciurma di cappello di paglia.gif",
+    "fileSize": 1550625,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/5th/TUC-279_1778403008831.gif"
   }
 ]
