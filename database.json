@@ -1170,5 +1170,20 @@
     "fileName": "rightclaw1.png",
     "fileSize": 1924,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/LNN-574_1778390648579.png"
+  },
+  {
+    "id": "1778390653602",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "RZW-708",
+    "subjectName": "Test Subject RZW",
+    "year": 2023,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:14.411Z",
+    "fileName": "rightclaw2.png",
+    "fileSize": 1899,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/6th/RZW-708_1778390653602.png"
   }
 ]
