@@ -4635,5 +4635,20 @@
     "fileName": "Senja Free Trial.ttf",
     "fileSize": 151172,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/QNW-939_1778392706148.ttf"
+  },
+  {
+    "id": "1778392711755",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "TGR-756",
+    "subjectName": "Test Subject TGR",
+    "year": 2020,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:32.585Z",
+    "fileName": "Senja Free Trial.woff",
+    "fileSize": 41016,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/TGR-756_1778392711755.woff"
   }
 ]
