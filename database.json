@@ -2415,5 +2415,20 @@
     "fileName": "Doctor Glitch.otf",
     "fileSize": 344944,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/6th/CQX-155_1778391862170.otf"
+  },
+  {
+    "id": "1778391867555",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "IOH-273",
+    "subjectName": "Test Subject IOH",
+    "year": 2013,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:28.352Z",
+    "fileName": "Dune_Rise.ttf",
+    "fileSize": 22964,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/5th/IOH-273_1778391867555.ttf"
   }
 ]
