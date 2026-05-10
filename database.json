@@ -5055,5 +5055,20 @@
     "fileName": "uni-sans.heavy-italic-caps.otf",
     "fileSize": 115724,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/3rd/VBQ-403_1778392866387.otf"
+  },
+  {
+    "id": "1778392871907",
+    "category": "PG Diploma",
+    "courseName": "Industrial Safety Management",
+    "subjectCode": "ZWQ-052",
+    "subjectName": "Test Subject ZWQ",
+    "year": 2022,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T06:01:12.904Z",
+    "fileName": "VivekH20-Regular.ttf.otf",
+    "fileSize": 11908,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/2nd/ZWQ-052_1778392871907.otf"
   }
 ]
