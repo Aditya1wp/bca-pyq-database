@@ -1875,5 +1875,20 @@
     "fileName": "BeautyDemo.otf",
     "fileSize": 38804,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/PGD-362_1778391644728.otf"
+  },
+  {
+    "id": "1778391650372",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "PVU-527",
+    "subjectName": "Test Subject PVU",
+    "year": 2021,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:51.190Z",
+    "fileName": "BeautyDemo.ttf",
+    "fileSize": 38804,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/PVU-527_1778391650372.ttf"
   }
 ]
