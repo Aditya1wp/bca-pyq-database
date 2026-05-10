@@ -1605,5 +1605,20 @@
     "fileName": "Assassin$.ttf",
     "fileSize": 29892,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/YIX-958_1778391544826.ttf"
+  },
+  {
+    "id": "1778391550132",
+    "category": "Self-Financed UG",
+    "courseName": "BFA",
+    "subjectCode": "TXG-305",
+    "subjectName": "Test Subject TXG",
+    "year": 2020,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:10.958Z",
+    "fileName": "ASTERA v2.ttf",
+    "fileSize": 12476,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bfa/5th/TXG-305_1778391550132.ttf"
   }
 ]
