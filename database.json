@@ -4230,5 +4230,20 @@
     "fileName": "PentaGrams Malefissent.ttf",
     "fileSize": 28232,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/5th/ILM-547_1778392553473.ttf"
+  },
+  {
+    "id": "1778392558625",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "JPY-968",
+    "subjectName": "Test Subject JPY",
+    "year": 2022,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:55:59.360Z",
+    "fileName": "PEPSI_pl.ttf",
+    "fileSize": 11632,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/2nd/JPY-968_1778392558625.ttf"
   }
 ]
