@@ -885,5 +885,20 @@
     "fileName": "downclaw2.png",
     "fileSize": 1899,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/6th/MGB-971_1778390553980.png"
+  },
+  {
+    "id": "1778390559000",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "CSZ-343",
+    "subjectName": "Test Subject CSZ",
+    "year": 2025,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:39.758Z",
+    "fileName": "downleft1.png",
+    "fileSize": 1944,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/2nd/CSZ-343_1778390559000.png"
   }
 ]
