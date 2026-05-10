@@ -4575,5 +4575,20 @@
     "fileName": "Scream_alout.ttf",
     "fileSize": 48716,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/2nd/JJL-203_1778392682672.ttf"
+  },
+  {
+    "id": "1778392688273",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "WLD-183",
+    "subjectName": "Test Subject WLD",
+    "year": 2023,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:09.115Z",
+    "fileName": "SCREAM__.TTF",
+    "fileSize": 35992,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/WLD-183_1778392688273.TTF"
   }
 ]
