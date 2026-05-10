@@ -1980,5 +1980,20 @@
     "fileName": "Brush Shapes.ttf",
     "fileSize": 316924,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/ABC-449_1778391686266.ttf"
+  },
+  {
+    "id": "1778391691913",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "OTQ-001",
+    "subjectName": "Test Subject OTQ",
+    "year": 2021,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:41:32.695Z",
+    "fileName": "Butterscotch.otf",
+    "fileSize": 63676,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/8th/OTQ-001_1778391691913.otf"
   }
 ]
