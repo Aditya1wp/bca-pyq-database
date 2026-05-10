@@ -3765,5 +3765,20 @@
     "fileName": "Letters for Learners Lined.ttf",
     "fileSize": 320644,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/3rd/XME-186_1778392378639.ttf"
+  },
+  {
+    "id": "1778392384809",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "YDH-406",
+    "subjectName": "Test Subject YDH",
+    "year": 2021,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:05.708Z",
+    "fileName": "Letters for Learners Outline Bold.ttf",
+    "fileSize": 186392,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/5th/YDH-406_1778392384809.ttf"
   }
 ]
