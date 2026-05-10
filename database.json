@@ -2835,5 +2835,20 @@
     "fileName": "Friends.ttf",
     "fileSize": 26756,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/4th/ZLO-362_1778392018590.ttf"
+  },
+  {
+    "id": "1778392024752",
+    "category": "Self-Financed UG",
+    "courseName": "B.MC",
+    "subjectCode": "TGB-187",
+    "subjectName": "Test Subject TGB",
+    "year": 2011,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:05.624Z",
+    "fileName": "Future Man.ttf",
+    "fileSize": 122644,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/4th/TGB-187_1778392024752.ttf"
   }
 ]
