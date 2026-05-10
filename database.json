@@ -1635,5 +1635,20 @@
     "fileName": "Autography.otf",
     "fileSize": 52396,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/8th/WDU-661_1778391555635.otf"
+  },
+  {
+    "id": "1778391561617",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "OBL-845",
+    "subjectName": "Test Subject OBL",
+    "year": 2014,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:22.489Z",
+    "fileName": "Avatar Water.ttf",
+    "fileSize": 207908,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/5th/OBL-845_1778391561617.ttf"
   }
 ]
