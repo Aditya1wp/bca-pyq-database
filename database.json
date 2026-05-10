@@ -3750,5 +3750,20 @@
     "fileName": "Letters for Learners Lined Dots.ttf",
     "fileSize": 799268,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/1st/KFO-474_1778392372109.ttf"
+  },
+  {
+    "id": "1778392378639",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "XME-186",
+    "subjectName": "Test Subject XME",
+    "year": 2012,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:59.554Z",
+    "fileName": "Letters for Learners Lined.ttf",
+    "fileSize": 320644,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/3rd/XME-186_1778392378639.ttf"
   }
 ]
