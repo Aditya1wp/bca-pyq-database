@@ -1005,5 +1005,20 @@
     "fileName": "Eremika_scarf_gif (500×250).gif",
     "fileSize": 967394,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/8th/ZQO-826_1778403085855.gif"
+  },
+  {
+    "id": "1778403097256",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "LBY-201",
+    "subjectName": "Test Subject LBY",
+    "year": 2022,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T08:51:38.208Z",
+    "fileName": "One Piece Movie 6.gif",
+    "fileSize": 402437,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/6th/LBY-201_1778403097256.gif"
   }
 ]
