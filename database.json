@@ -2520,5 +2520,20 @@
     "fileName": "Edition.ttf",
     "fileSize": 22508,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/8th/ZKK-213_1778391900413.ttf"
+  },
+  {
+    "id": "1778391905822",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "GPK-351",
+    "subjectName": "Test Subject GPK",
+    "year": 2019,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:06.624Z",
+    "fileName": "EDITION_.TTF",
+    "fileSize": 22508,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/4th/GPK-351_1778391905822.TTF"
   }
 ]
