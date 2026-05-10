@@ -975,5 +975,20 @@
     "fileName": "fp_downleft.png",
     "fileSize": 1640,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__biotechnology/4th/IRX-613_1778390583962.png"
+  },
+  {
+    "id": "1778390588913",
+    "category": "Self-Financed UG",
+    "courseName": "Biotechnology",
+    "subjectCode": "BLR-517",
+    "subjectName": "Test Subject BLR",
+    "year": 2017,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:09.633Z",
+    "fileName": "fp_downright.png",
+    "fileSize": 1649,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/4th/BLR-517_1778390588913.png"
   }
 ]
