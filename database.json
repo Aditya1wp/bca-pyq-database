@@ -3210,5 +3210,20 @@
     "fileName": "Guardian.ttf",
     "fileSize": 20504,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/JYT-012_1778392159280.ttf"
+  },
+  {
+    "id": "1778392164616",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "FXX-671",
+    "subjectName": "Test Subject FXX",
+    "year": 2012,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:49:25.473Z",
+    "fileName": "HARRYP__.TTF",
+    "fileSize": 27432,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/FXX-671_1778392164616.TTF"
   }
 ]
