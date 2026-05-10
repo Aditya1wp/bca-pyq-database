@@ -4320,5 +4320,20 @@
     "fileName": "raidercrusaderchrome.ttf",
     "fileSize": 156008,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/WZC-682_1778392586766.ttf"
+  },
+  {
+    "id": "1778392592525",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Environmental Science",
+    "subjectCode": "YPK-825",
+    "subjectName": "Test Subject YPK",
+    "year": 2013,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:33.407Z",
+    "fileName": "raidercrusaderengrave.ttf",
+    "fileSize": 79672,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/5th/YPK-825_1778392592525.ttf"
   }
 ]
