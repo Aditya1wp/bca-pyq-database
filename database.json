@@ -4260,5 +4260,20 @@
     "fileName": "Positions  Regular.otf",
     "fileSize": 16048,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/6th/DAT-451_1778392563864.otf"
+  },
+  {
+    "id": "1778392569353",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "HZP-447",
+    "subjectName": "Test Subject HZP",
+    "year": 2017,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:10.209Z",
+    "fileName": "PowerRangers.otf",
+    "fileSize": 28668,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/HZP-447_1778392569353.otf"
   }
 ]
