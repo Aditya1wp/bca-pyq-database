@@ -2580,5 +2580,20 @@
     "fileName": "Espresso Show.ttf",
     "fileSize": 78332,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/EOL-937_1778391922581.ttf"
+  },
+  {
+    "id": "1778391928277",
+    "category": "Self-Financed PG",
+    "courseName": "MSW",
+    "subjectCode": "BLQ-206",
+    "subjectName": "Test Subject BLQ",
+    "year": 2025,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:29.067Z",
+    "fileName": "Espresso Skhow.ttf",
+    "fileSize": 78332,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/4th/BLQ-206_1778391928277.ttf"
   }
 ]
