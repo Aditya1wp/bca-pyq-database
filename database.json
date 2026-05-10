@@ -900,5 +900,20 @@
     "fileName": "downleft1.png",
     "fileSize": 1944,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/2nd/CSZ-343_1778390559000.png"
+  },
+  {
+    "id": "1778390563964",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "CYI-981",
+    "subjectName": "Test Subject CYI",
+    "year": 2025,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:44.736Z",
+    "fileName": "downleft2.png",
+    "fileSize": 1931,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/2nd/CYI-981_1778390563964.png"
   }
 ]
