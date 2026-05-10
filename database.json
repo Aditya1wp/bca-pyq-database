@@ -870,5 +870,20 @@
     "fileName": "download (1).gif",
     "fileSize": 2091672,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__biotechnology/3rd/RAF-499_1778403016589.gif"
+  },
+  {
+    "id": "1778403024968",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Music",
+    "subjectCode": "HNF-799",
+    "subjectName": "Test Subject HNF",
+    "year": 2011,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T08:50:26.341Z",
+    "fileName": "download (2).gif",
+    "fileSize": 2349348,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/6th/HNF-799_1778403024968.gif"
   }
 ]
