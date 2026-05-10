@@ -1470,5 +1470,20 @@
     "fileName": "Akira Jimbo.ttf",
     "fileSize": 13768,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__women_s_studies/4th/WJI-258_1778391494071.ttf"
+  },
+  {
+    "id": "1778391499808",
+    "category": "Self-Financed UG",
+    "courseName": "B.MC",
+    "subjectCode": "EVV-854",
+    "subjectName": "Test Subject EVV",
+    "year": 2018,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:20.686Z",
+    "fileName": "Alice in Wonderland 400.ttf",
+    "fileSize": 81252,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/3rd/EVV-854_1778391499808.ttf"
   }
 ]
