@@ -3045,5 +3045,20 @@
     "fileName": "Gobold High Italic.otf",
     "fileSize": 21080,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/6th/RLP-914_1778392097689.otf"
+  },
+  {
+    "id": "1778392102965",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "CUO-517",
+    "subjectName": "Test Subject CUO",
+    "year": 2015,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:23.730Z",
+    "fileName": "Gobold High Thin Italic.otf",
+    "fileSize": 21056,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/1st/CUO-517_1778392102965.otf"
   }
 ]
