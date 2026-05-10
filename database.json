@@ -1335,5 +1335,20 @@
     "fileName": "upleft2.png",
     "fileSize": 1958,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/2nd/PVT-704_1778390704296.png"
+  },
+  {
+    "id": "1778390709349",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "EPQ-409",
+    "subjectName": "Test Subject EPQ",
+    "year": 2018,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:10.252Z",
+    "fileName": "upright1.png",
+    "fileSize": 1930,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/6th/EPQ-409_1778390709349.png"
   }
 ]
