@@ -2475,5 +2475,20 @@
     "fileName": "EarwigFactory Regular.ttf",
     "fileSize": 63900,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/7th/KOL-087_1778391884306.ttf"
+  },
+  {
+    "id": "1778391889618",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "IFJ-539",
+    "subjectName": "Test Subject IFJ",
+    "year": 2016,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:50.393Z",
+    "fileName": "Eatday.otf",
+    "fileSize": 29656,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/4th/IFJ-539_1778391889618.otf"
   }
 ]
