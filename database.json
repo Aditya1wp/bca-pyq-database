@@ -2970,5 +2970,20 @@
     "fileName": "Gobold CUTS Italic.otf",
     "fileSize": 54484,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/1st/VSW-894_1778392070465.otf"
+  },
+  {
+    "id": "1778392075913",
+    "category": "Self-Financed UG",
+    "courseName": "BBA",
+    "subjectCode": "PTN-864",
+    "subjectName": "Test Subject PTN",
+    "year": 2017,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:56.766Z",
+    "fileName": "Gobold CUTS.otf",
+    "fileSize": 51212,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/5th/PTN-864_1778392075913.otf"
   }
 ]
