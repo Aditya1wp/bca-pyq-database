@@ -990,5 +990,20 @@
     "fileName": "download.gif",
     "fileSize": 623094,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/5th/IMK-811_1778403078313.gif"
+  },
+  {
+    "id": "1778403085855",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "ZQO-826",
+    "subjectName": "Test Subject ZQO",
+    "year": 2018,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:51:27.142Z",
+    "fileName": "Eremika_scarf_gif (500×250).gif",
+    "fileSize": 967394,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/8th/ZQO-826_1778403085855.gif"
   }
 ]
