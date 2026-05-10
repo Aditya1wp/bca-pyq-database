@@ -3585,5 +3585,20 @@
     "fileName": "kenyan coffee rg.ttf",
     "fileSize": 148912,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/2nd/ZPQ-356_1778392309924.ttf"
+  },
+  {
+    "id": "1778392315085",
+    "category": "Self-Financed UG",
+    "courseName": "B.Lib.I.Sc.",
+    "subjectCode": "GWB-517",
+    "subjectName": "Test Subject GWB",
+    "year": 2020,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:55.840Z",
+    "fileName": "kremlin.ttf",
+    "fileSize": 7316,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_lib_i_sc_/1st/GWB-517_1778392315085.ttf"
   }
 ]
