@@ -855,5 +855,20 @@
     "fileName": "down2.png",
     "fileSize": 1927,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/7th/SVF-176_1778390544021.png"
+  },
+  {
+    "id": "1778390549107",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "ACO-122",
+    "subjectName": "Test Subject ACO",
+    "year": 2021,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:29.808Z",
+    "fileName": "downclaw1.png",
+    "fileSize": 1910,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/6th/ACO-122_1778390549107.png"
   }
 ]
