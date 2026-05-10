@@ -4185,5 +4185,20 @@
     "fileName": "PanicStricken.ttf",
     "fileSize": 225836,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/WUZ-812_1778392536614.ttf"
+  },
+  {
+    "id": "1778392542389",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "YTD-954",
+    "subjectName": "Test Subject YTD",
+    "year": 2010,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:55:43.283Z",
+    "fileName": "parry-hotter.regular.ttf",
+    "fileSize": 81544,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/1st/YTD-954_1778392542389.ttf"
   }
 ]
