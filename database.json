@@ -1845,5 +1845,20 @@
     "fileName": "batmfa__.ttf",
     "fileSize": 55552,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/1st/NLS-451_1778391633806.ttf"
+  },
+  {
+    "id": "1778391639153",
+    "category": "Self-Financed UG",
+    "courseName": "Functional English",
+    "subjectCode": "ZIV-934",
+    "subjectName": "Test Subject ZIV",
+    "year": 2010,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:39.950Z",
+    "fileName": "Beauty 400.otf",
+    "fileSize": 38804,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/6th/ZIV-934_1778391639153.otf"
   }
 ]
