@@ -2805,5 +2805,20 @@
     "fileName": "Flower Icons.otf",
     "fileSize": 739832,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/3rd/ZKW-404_1778392007555.otf"
+  },
+  {
+    "id": "1778392013234",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "QZZ-666",
+    "subjectName": "Test Subject QZZ",
+    "year": 2025,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:54.088Z",
+    "fileName": "font by ispark.ttf",
+    "fileSize": 31540,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/6th/QZZ-666_1778392013234.ttf"
   }
 ]
