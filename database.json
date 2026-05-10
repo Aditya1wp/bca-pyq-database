@@ -990,5 +990,20 @@
     "fileName": "fp_downright.png",
     "fileSize": 1649,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/4th/BLR-517_1778390588913.png"
+  },
+  {
+    "id": "1778390593806",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "VYP-870",
+    "subjectName": "Test Subject VYP",
+    "year": 2024,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:14.623Z",
+    "fileName": "fp_left.png",
+    "fileSize": 1656,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/2nd/VYP-870_1778390593806.png"
   }
 ]
