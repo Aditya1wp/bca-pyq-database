@@ -1410,5 +1410,20 @@
     "fileName": "yawn1.png",
     "fileSize": 1882,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/2nd/RCE-001_1778390729472.png"
+  },
+  {
+    "id": "1778390734452",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "SMI-832",
+    "subjectName": "Test Subject SMI",
+    "year": 2013,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:35.224Z",
+    "fileName": "yawn2.png",
+    "fileSize": 1923,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/3rd/SMI-832_1778390734452.png"
   }
 ]
