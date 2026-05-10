@@ -4065,5 +4065,20 @@
     "fileName": "OldLondon.ttf",
     "fileSize": 50244,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/8th/VJR-934_1778392491353.ttf"
+  },
+  {
+    "id": "1778392497029",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "DQB-591",
+    "subjectName": "Test Subject DQB",
+    "year": 2018,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:57.864Z",
+    "fileName": "OldLondonAlternate.ttf",
+    "fileSize": 49860,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/6th/DQB-591_1778392497029.ttf"
   }
 ]
