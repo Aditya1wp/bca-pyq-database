@@ -4590,5 +4590,20 @@
     "fileName": "SCREAM__.TTF",
     "fileSize": 35992,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/WLD-183_1778392688273.TTF"
+  },
+  {
+    "id": "1778392694006",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "YPN-993",
+    "subjectName": "Test Subject YPN",
+    "year": 2017,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:14.909Z",
+    "fileName": "Seagram tfb 400.ttf",
+    "fileSize": 41344,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/2nd/YPN-993_1778392694006.ttf"
   }
 ]
