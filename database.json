@@ -1380,5 +1380,20 @@
     "fileName": "wash1.png",
     "fileSize": 1937,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/3rd/IMU-474_1778390719471.png"
+  },
+  {
+    "id": "1778390724401",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "GSM-021",
+    "subjectName": "Test Subject GSM",
+    "year": 2022,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:25.194Z",
+    "fileName": "wash2.png",
+    "fileSize": 1381,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/3rd/GSM-021_1778390724401.png"
   }
 ]
