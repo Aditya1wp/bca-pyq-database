@@ -2220,5 +2220,20 @@
     "fileName": "Cocogoose-Pro-Semilight-Italic-trial.ttf",
     "fileSize": 224360,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/2nd/XHA-385_1778391786404.ttf"
+  },
+  {
+    "id": "1778391792416",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "ZCO-766",
+    "subjectName": "Test Subject ZCO",
+    "year": 2018,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:13.385Z",
+    "fileName": "Cocogoose-Pro-Semilight-trial.ttf",
+    "fileSize": 246308,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/1st/ZCO-766_1778391792416.ttf"
   }
 ]
