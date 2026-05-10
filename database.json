@@ -1305,5 +1305,20 @@
     "fileName": "upclaw2.png",
     "fileSize": 1942,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/7th/NKI-624_1778390693947.png"
+  },
+  {
+    "id": "1778390699279",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Bio-Chemistry",
+    "subjectCode": "WEX-599",
+    "subjectName": "Test Subject WEX",
+    "year": 2011,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:00.073Z",
+    "fileName": "upleft1.png",
+    "fileSize": 1905,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__bio-chemistry/6th/WEX-599_1778390699279.png"
   }
 ]
