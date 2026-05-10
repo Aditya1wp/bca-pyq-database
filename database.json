@@ -2175,5 +2175,20 @@
     "fileName": "Cocogoose-Pro-Light-Italic-trial.ttf",
     "fileSize": 226048,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/3rd/QBS-584_1778391768156.ttf"
+  },
+  {
+    "id": "1778391774122",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "JRK-125",
+    "subjectName": "Test Subject JRK",
+    "year": 2010,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:42:55.011Z",
+    "fileName": "Cocogoose-Pro-Light-trial.ttf",
+    "fileSize": 246776,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/3rd/JRK-125_1778391774122.ttf"
   }
 ]
