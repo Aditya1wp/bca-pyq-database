@@ -1620,5 +1620,20 @@
     "fileName": "ASTERA v2.ttf",
     "fileSize": 12476,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bfa/5th/TXG-305_1778391550132.ttf"
+  },
+  {
+    "id": "1778391555635",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "WDU-661",
+    "subjectName": "Test Subject WDU",
+    "year": 2017,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:16.519Z",
+    "fileName": "Autography.otf",
+    "fileSize": 52396,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/8th/WDU-661_1778391555635.otf"
   }
 ]
