@@ -2985,5 +2985,20 @@
     "fileName": "Gobold CUTS.otf",
     "fileSize": 51212,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/5th/PTN-864_1778392075913.otf"
+  },
+  {
+    "id": "1778392081337",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Environmental Science",
+    "subjectCode": "HSF-625",
+    "subjectName": "Test Subject HSF",
+    "year": 2020,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:02.167Z",
+    "fileName": "Gobold Extra1.otf",
+    "fileSize": 20704,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/8th/HSF-625_1778392081337.otf"
   }
 ]
