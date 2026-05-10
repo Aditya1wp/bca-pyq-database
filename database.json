@@ -1035,5 +1035,20 @@
     "fileName": "tumblr_oym4czTT3f1v6bg8ho9_r1_540.gif",
     "fileSize": 2226306,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/3rd/GEK-028_1778403110578.gif"
+  },
+  {
+    "id": "1778403119027",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Environmental Science",
+    "subjectCode": "KOJ-602",
+    "subjectName": "Test Subject KOJ",
+    "year": 2018,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:52:00.747Z",
+    "fileName": "w.gif",
+    "fileSize": 2912937,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__environmental_science/8th/KOJ-602_1778403119027.gif"
   }
 ]
