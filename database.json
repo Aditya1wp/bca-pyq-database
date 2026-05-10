@@ -1530,5 +1530,20 @@
     "fileName": "Andes.ttf",
     "fileSize": 22528,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/3rd/BFD-404_1778391516812.ttf"
+  },
+  {
+    "id": "1778391521858",
+    "category": "Regular UG",
+    "courseName": "B.Com. Hons",
+    "subjectCode": "STF-343",
+    "subjectName": "Test Subject STF",
+    "year": 2011,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:42.695Z",
+    "fileName": "AntMan.ttf",
+    "fileSize": 8584,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/6th/STF-343_1778391521858.ttf"
   }
 ]
