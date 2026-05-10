@@ -3795,5 +3795,20 @@
     "fileName": "Letters for Learners Outline Light.ttf",
     "fileSize": 183076,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/3rd/YQF-752_1778392390977.ttf"
+  },
+  {
+    "id": "1778392397496",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "JSF-376",
+    "subjectName": "Test Subject JSF",
+    "year": 2017,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:18.548Z",
+    "fileName": "Letters for Learners Outline.ttf",
+    "fileSize": 251080,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/2nd/JSF-376_1778392397496.ttf"
   }
 ]
