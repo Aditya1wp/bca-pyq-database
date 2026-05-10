@@ -4530,5 +4530,20 @@
     "fileName": "scream-real.regular.otf",
     "fileSize": 11488,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/ADW-791_1778392665724.otf"
+  },
+  {
+    "id": "1778392671430",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "EYP-943",
+    "subjectName": "Test Subject EYP",
+    "year": 2024,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:57:52.313Z",
+    "fileName": "SCREAMOU.TTF",
+    "fileSize": 49264,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/3rd/EYP-943_1778392671430.TTF"
   }
 ]
