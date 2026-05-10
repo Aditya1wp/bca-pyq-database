@@ -960,5 +960,20 @@
     "fileName": "download (7).gif",
     "fileSize": 1573183,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/7th/EML-130_1778403063369.gif"
+  },
+  {
+    "id": "1778403071066",
+    "category": "Regular PG",
+    "courseName": "M.A.",
+    "subjectCode": "RKG-895",
+    "subjectName": "Test Subject RKG",
+    "year": 2019,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T08:51:12.295Z",
+    "fileName": "download (8).gif",
+    "fileSize": 1716297,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/1st/RKG-895_1778403071066.gif"
   }
 ]
