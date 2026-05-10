@@ -1035,5 +1035,20 @@
     "fileName": "fp_up.png",
     "fileSize": 1667,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/4th/JAJ-942_1778390603915.png"
+  },
+  {
+    "id": "1778390608887",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "CLQ-672",
+    "subjectName": "Test Subject CLQ",
+    "year": 2013,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:29.643Z",
+    "fileName": "fp_upleft.png",
+    "fileSize": 1639,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/1st/CLQ-672_1778390608887.png"
   }
 ]
