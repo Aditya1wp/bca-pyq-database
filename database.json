@@ -1485,5 +1485,20 @@
     "fileName": "Alice in Wonderland 400.ttf",
     "fileSize": 81252,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/3rd/EVV-854_1778391499808.ttf"
+  },
+  {
+    "id": "1778391505487",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "LYO-314",
+    "subjectName": "Test Subject LYO",
+    "year": 2024,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:26.276Z",
+    "fileName": "Alice_in_Wonderland_3.ttf",
+    "fileSize": 81252,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/7th/LYO-314_1778391505487.ttf"
   }
 ]
