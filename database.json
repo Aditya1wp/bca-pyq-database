@@ -3960,5 +3960,20 @@
     "fileName": "Minecrafter.Reg.ttf",
     "fileSize": 7564,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/3rd/OFE-682_1778392453170.ttf"
+  },
+  {
+    "id": "1778392458559",
+    "category": "Self-Financed UG",
+    "courseName": "BBA",
+    "subjectCode": "DKN-212",
+    "subjectName": "Test Subject DKN",
+    "year": 2021,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:19.393Z",
+    "fileName": "Moonrising Italic.otf",
+    "fileSize": 30612,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/3rd/DKN-212_1778392458559.otf"
   }
 ]
