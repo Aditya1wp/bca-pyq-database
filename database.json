@@ -4665,5 +4665,20 @@
     "fileName": "Senja Free Trial.woff2",
     "fileSize": 32800,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/7th/UPA-622_1778392717388.woff2"
+  },
+  {
+    "id": "1778392723039",
+    "category": "Regular UG",
+    "courseName": "B.Sc. Hons",
+    "subjectCode": "BPH-422",
+    "subjectName": "Test Subject BPH",
+    "year": 2011,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:43.965Z",
+    "fileName": "Sequel100Black-46.ttf",
+    "fileSize": 49636,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/5th/BPH-422_1778392723039.ttf"
   }
 ]
