@@ -4815,5 +4815,20 @@
     "fileName": "terminator real nfi.ttf",
     "fileSize": 24396,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pmir/4th/IHT-979_1778392773244.ttf"
+  },
+  {
+    "id": "1778392779305",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "XHU-621",
+    "subjectName": "Test Subject XHU",
+    "year": 2023,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:40.192Z",
+    "fileName": "The Amazing Spider-Man.ttf",
+    "fileSize": 194776,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/4th/XHU-621_1778392779305.ttf"
   }
 ]
