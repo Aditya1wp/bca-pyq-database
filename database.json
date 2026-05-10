@@ -4080,5 +4080,20 @@
     "fileName": "OldLondonAlternate.ttf",
     "fileSize": 49860,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/6th/DQB-591_1778392497029.ttf"
+  },
+  {
+    "id": "1778392502639",
+    "category": "Self-Financed UG",
+    "courseName": "B.MC",
+    "subjectCode": "LBX-343",
+    "subjectName": "Test Subject LBX",
+    "year": 2014,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:55:03.535Z",
+    "fileName": "Olondona.otf",
+    "fileSize": 41940,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/5th/LBX-343_1778392502639.otf"
   }
 ]
