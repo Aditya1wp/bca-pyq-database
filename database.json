@@ -4485,5 +4485,20 @@
     "fileName": "RUSTF___.TTF",
     "fileSize": 31424,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/5th/DYI-964_1778392648729.TTF"
+  },
+  {
+    "id": "1778392654388",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "TLJ-040",
+    "subjectName": "Test Subject TLJ",
+    "year": 2014,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:57:35.215Z",
+    "fileName": "RUSTLER_.TTF",
+    "fileSize": 24924,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/3rd/TLJ-040_1778392654388.TTF"
   }
 ]
