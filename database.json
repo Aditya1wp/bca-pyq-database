@@ -4020,5 +4020,20 @@
     "fileName": "Moonrising.ttf",
     "fileSize": 31880,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/7th/JUF-400_1778392474894.ttf"
+  },
+  {
+    "id": "1778392480114",
+    "category": "Self-Financed UG",
+    "courseName": "Functional English",
+    "subjectCode": "WFI-040",
+    "subjectName": "Test Subject WFI",
+    "year": 2011,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:40.893Z",
+    "fileName": "New Athletic M54.ttf",
+    "fileSize": 9240,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/3rd/WFI-040_1778392480114.ttf"
   }
 ]
