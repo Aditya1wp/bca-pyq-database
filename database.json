@@ -3015,5 +3015,20 @@
     "fileName": "Gobold Extra2.otf",
     "fileSize": 19676,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/6th/YXV-465_1778392087015.otf"
+  },
+  {
+    "id": "1778392092191",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "JGL-443",
+    "subjectName": "Test Subject JGL",
+    "year": 2013,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:13.116Z",
+    "fileName": "Gobold High Bold Italic.otf",
+    "fileSize": 20900,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/5th/JGL-443_1778392092191.otf"
   }
 ]
