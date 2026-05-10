@@ -2670,5 +2670,20 @@
     "fileName": "fighting spirit TBS_bold.ttf",
     "fileSize": 31540,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/8th/LYF-715_1778391956433.ttf"
+  },
+  {
+    "id": "1778391961712",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "XNZ-698",
+    "subjectName": "Test Subject XNZ",
+    "year": 2020,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:02.493Z",
+    "fileName": "Film Noir Italic.otf",
+    "fileSize": 13444,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/6th/XNZ-698_1778391961712.otf"
   }
 ]
