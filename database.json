@@ -3870,5 +3870,20 @@
     "fileName": "LOVES REG.ttf",
     "fileSize": 44592,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/5th/FJW-231_1778392420024.ttf"
+  },
+  {
+    "id": "1778392425458",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "VIC-810",
+    "subjectName": "Test Subject VIC",
+    "year": 2010,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:46.211Z",
+    "fileName": "Lucifer.ttf",
+    "fileSize": 27200,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/8th/VIC-810_1778392425458.ttf"
   }
 ]
