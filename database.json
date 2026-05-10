@@ -900,5 +900,20 @@
     "fileName": "download (3).gif",
     "fileSize": 2786334,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/JLL-643_1778403033604.gif"
+  },
+  {
+    "id": "1778403041591",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "SMZ-512",
+    "subjectName": "Test Subject SMZ",
+    "year": 2010,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:50:42.727Z",
+    "fileName": "download (4).gif",
+    "fileSize": 1242498,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/4th/SMZ-512_1778403041591.gif"
   }
 ]
