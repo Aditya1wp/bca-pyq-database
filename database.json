@@ -1065,5 +1065,20 @@
     "fileName": "fp_upright.png",
     "fileSize": 1637,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/5th/XMO-089_1778390613930.png"
+  },
+  {
+    "id": "1778390618824",
+    "category": "Regular PG",
+    "courseName": "M.A.",
+    "subjectCode": "FPP-421",
+    "subjectName": "Test Subject FPP",
+    "year": 2010,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:39.519Z",
+    "fileName": "left1.png",
+    "fileSize": 1951,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/6th/FPP-421_1778390618824.png"
   }
 ]
