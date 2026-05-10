@@ -1500,5 +1500,20 @@
     "fileName": "Alice_in_Wonderland_3.ttf",
     "fileSize": 81252,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/7th/LYO-314_1778391505487.ttf"
+  },
+  {
+    "id": "1778391511163",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "VNX-515",
+    "subjectName": "Test Subject VNX",
+    "year": 2024,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:38:32.050Z",
+    "fileName": "American Captain.ttf",
+    "fileSize": 79484,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/VNX-515_1778391511163.ttf"
   }
 ]
