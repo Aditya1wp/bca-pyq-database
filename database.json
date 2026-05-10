@@ -4410,5 +4410,20 @@
     "fileName": "raidercrusaderstraight.ttf",
     "fileSize": 25804,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/5th/DAH-364_1778392620332.ttf"
+  },
+  {
+    "id": "1778392625974",
+    "category": "Self-Financed PG",
+    "courseName": "MJMC",
+    "subjectCode": "ZZY-618",
+    "subjectName": "Test Subject ZZY",
+    "year": 2016,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:57:06.901Z",
+    "fileName": "raidercrusadertitle.ttf",
+    "fileSize": 27184,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mjmc/4th/ZZY-618_1778392625974.ttf"
   }
 ]
