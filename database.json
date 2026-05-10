@@ -2190,5 +2190,20 @@
     "fileName": "Cocogoose-Pro-Light-trial.ttf",
     "fileSize": 246776,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/3rd/JRK-125_1778391774122.ttf"
+  },
+  {
+    "id": "1778391780081",
+    "category": "PG Diploma",
+    "courseName": "Yogic Science",
+    "subjectCode": "MVI-166",
+    "subjectName": "Test Subject MVI",
+    "year": 2016,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:00.964Z",
+    "fileName": "Cocogoose-Pro-Regular-trial.ttf",
+    "fileSize": 245708,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/2nd/MVI-166_1778391780081.ttf"
   }
 ]
