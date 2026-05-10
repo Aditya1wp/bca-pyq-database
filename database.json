@@ -915,5 +915,20 @@
     "fileName": "download (4).gif",
     "fileSize": 1242498,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/4th/SMZ-512_1778403041591.gif"
+  },
+  {
+    "id": "1778403048337",
+    "category": "PG Diploma",
+    "courseName": "PGDCA",
+    "subjectCode": "JNM-687",
+    "subjectName": "Test Subject JNM",
+    "year": 2018,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T08:50:49.369Z",
+    "fileName": "download (5).gif",
+    "fileSize": 406250,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/7th/JNM-687_1778403048337.gif"
   }
 ]
