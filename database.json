@@ -2910,5 +2910,20 @@
     "fileName": "Gemstone.ttf",
     "fileSize": 32280,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/5th/IMY-579_1778392046885.ttf"
+  },
+  {
+    "id": "1778392053548",
+    "category": "Self-Financed UG",
+    "courseName": "B.MC",
+    "subjectCode": "SOZ-656",
+    "subjectName": "Test Subject SOZ",
+    "year": 2017,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:34.913Z",
+    "fileName": "Ghastly Panic.ttf",
+    "fileSize": 834632,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/5th/SOZ-656_1778392053548.ttf"
   }
 ]
