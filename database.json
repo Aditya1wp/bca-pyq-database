@@ -4305,5 +4305,20 @@
     "fileName": "raidercrusaderbevel.ttf",
     "fileSize": 57428,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/8th/IAT-183_1778392580647.ttf"
+  },
+  {
+    "id": "1778392586766",
+    "category": "PG Diploma",
+    "courseName": "Human Resource Development",
+    "subjectCode": "WZC-682",
+    "subjectName": "Test Subject WZC",
+    "year": 2023,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:27.736Z",
+    "fileName": "raidercrusaderchrome.ttf",
+    "fileSize": 156008,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/WZC-682_1778392586766.ttf"
   }
 ]
