@@ -2205,5 +2205,20 @@
     "fileName": "Cocogoose-Pro-Regular-trial.ttf",
     "fileSize": 245708,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/yogic_science/2nd/MVI-166_1778391780081.ttf"
+  },
+  {
+    "id": "1778391786404",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "XHA-385",
+    "subjectName": "Test Subject XHA",
+    "year": 2023,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:07.292Z",
+    "fileName": "Cocogoose-Pro-Semilight-Italic-trial.ttf",
+    "fileSize": 224360,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/2nd/XHA-385_1778391786404.ttf"
   }
 ]
