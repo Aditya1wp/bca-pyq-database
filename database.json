@@ -4440,5 +4440,20 @@
     "fileName": "rans____.ttf",
     "fileSize": 55188,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/2nd/LIM-883_1778392631879.ttf"
+  },
+  {
+    "id": "1778392637357",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "IZO-245",
+    "subjectName": "Test Subject IZO",
+    "year": 2022,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:57:18.208Z",
+    "fileName": "ROBO.ttf",
+    "fileSize": 53420,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/6th/IZO-245_1778392637357.ttf"
   }
 ]
