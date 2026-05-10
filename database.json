@@ -1230,5 +1230,20 @@
     "fileName": "sleep1.png",
     "fileSize": 1834,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/8th/CCI-672_1778390669088.png"
+  },
+  {
+    "id": "1778390674081",
+    "category": "Self-Financed UG",
+    "courseName": "Biotechnology",
+    "subjectCode": "EOL-610",
+    "subjectName": "Test Subject EOL",
+    "year": 2011,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:34.851Z",
+    "fileName": "sleep2.png",
+    "fileSize": 1837,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/7th/EOL-610_1778390674081.png"
   }
 ]
