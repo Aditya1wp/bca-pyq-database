@@ -4980,5 +4980,20 @@
     "fileName": "Tonight Christmas.otf",
     "fileSize": 26884,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/8th/KRP-746_1778392837174.otf"
+  },
+  {
+    "id": "1778392843042",
+    "category": "Self-Financed PG",
+    "courseName": "M.Lib.I.Sc.",
+    "subjectCode": "XUN-945",
+    "subjectName": "Test Subject XUN",
+    "year": 2024,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T06:00:43.971Z",
+    "fileName": "Toxia_FRE.ttf",
+    "fileSize": 136048,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/6th/XUN-945_1778392843042.ttf"
   }
 ]
