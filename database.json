@@ -2925,5 +2925,20 @@
     "fileName": "Ghastly Panic.ttf",
     "fileSize": 834632,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/5th/SOZ-656_1778392053548.ttf"
+  },
+  {
+    "id": "1778392059485",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "BAK-214",
+    "subjectName": "Test Subject BAK",
+    "year": 2015,
+    "semester": "6th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:40.294Z",
+    "fileName": "Gobold Bold Italic.otf",
+    "fileSize": 22856,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/6th/BAK-214_1778392059485.otf"
   }
 ]
