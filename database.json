@@ -930,5 +930,20 @@
     "fileName": "downright1.png",
     "fileSize": 1957,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/human_resource_development/6th/KAK-198_1778390569030.png"
+  },
+  {
+    "id": "1778390574046",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Music",
+    "subjectCode": "THF-581",
+    "subjectName": "Test Subject THF",
+    "year": 2010,
+    "semester": "6th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:22:54.834Z",
+    "fileName": "downright2.png",
+    "fileSize": 1925,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/6th/THF-581_1778390574046.png"
   }
 ]
