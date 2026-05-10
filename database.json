@@ -4680,5 +4680,20 @@
     "fileName": "Sequel100Black-46.ttf",
     "fileSize": 49636,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/5th/BPH-422_1778392723039.ttf"
+  },
+  {
+    "id": "1778392728804",
+    "category": "Self-Financed PG",
+    "courseName": "MSW",
+    "subjectCode": "KHJ-253",
+    "subjectName": "Test Subject KHJ",
+    "year": 2021,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:49.629Z",
+    "fileName": "Sequel100Black-76.ttf",
+    "fileSize": 49900,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/3rd/KHJ-253_1778392728804.ttf"
   }
 ]
