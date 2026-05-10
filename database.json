@@ -3945,5 +3945,20 @@
     "fileName": "Minecrafter.Alt.ttf",
     "fileSize": 22616,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/5th/PIR-253_1778392447673.ttf"
+  },
+  {
+    "id": "1778392453170",
+    "category": "Regular PG",
+    "courseName": "LL.M.",
+    "subjectCode": "OFE-682",
+    "subjectName": "Test Subject OFE",
+    "year": 2016,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:14.016Z",
+    "fileName": "Minecrafter.Reg.ttf",
+    "fileSize": 7564,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/3rd/OFE-682_1778392453170.ttf"
   }
 ]
