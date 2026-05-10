@@ -4365,5 +4365,20 @@
     "fileName": "raidercrusaderital.ttf",
     "fileSize": 27544,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/JQX-846_1778392603805.ttf"
+  },
+  {
+    "id": "1778392609314",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "FCK-971",
+    "subjectName": "Test Subject FCK",
+    "year": 2024,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:56:50.109Z",
+    "fileName": "raidercrusaderleft.ttf",
+    "fileSize": 26904,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/3rd/FCK-971_1778392609314.ttf"
   }
 ]
