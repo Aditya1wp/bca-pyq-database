@@ -1710,5 +1710,20 @@
     "fileName": "BabyDoll 400.ttf",
     "fileSize": 23276,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/7th/MLK-427_1778391583619.ttf"
+  },
+  {
+    "id": "1778391589009",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "INQ-180",
+    "subjectName": "Test Subject INQ",
+    "year": 2016,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:49.756Z",
+    "fileName": "BabyDoll.ttf",
+    "fileSize": 23276,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/2nd/INQ-180_1778391589009.ttf"
   }
 ]
