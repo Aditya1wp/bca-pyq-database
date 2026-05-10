@@ -3390,5 +3390,20 @@
     "fileName": "JMH Typewriter.otf",
     "fileSize": 201304,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/7th/OFK-105_1778392233015.otf"
+  },
+  {
+    "id": "1778392239719",
+    "category": "Self-Financed UG",
+    "courseName": "BBA",
+    "subjectCode": "TDM-745",
+    "subjectName": "Test Subject TDM",
+    "year": 2023,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:40.587Z",
+    "fileName": "JMH Typewriter.ttf",
+    "fileSize": 396036,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bba/5th/TDM-745_1778392239719.ttf"
   }
 ]
