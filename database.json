@@ -3525,5 +3525,20 @@
     "fileName": "KeepCalm-Medium.ttf",
     "fileSize": 86716,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/5th/UFZ-793_1778392285729.ttf"
+  },
+  {
+    "id": "1778392291689",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "JSL-211",
+    "subjectName": "Test Subject JSL",
+    "year": 2020,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:32.676Z",
+    "fileName": "kenyan coffee bd it.ttf",
+    "fileSize": 154060,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/3rd/JSL-211_1778392291689.ttf"
   }
 ]
