@@ -1020,5 +1020,20 @@
     "fileName": "fp_right.png",
     "fileSize": 1667,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/7th/ATY-663_1778390598891.png"
+  },
+  {
+    "id": "1778390603915",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "JAJ-942",
+    "subjectName": "Test Subject JAJ",
+    "year": 2021,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:23:24.692Z",
+    "fileName": "fp_up.png",
+    "fileSize": 1667,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/4th/JAJ-942_1778390603915.png"
   }
 ]
