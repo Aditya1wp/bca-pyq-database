@@ -2145,5 +2145,20 @@
     "fileName": "Cocogoose-Pro-Italic-trial.ttf",
     "fileSize": 224680,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/7th/WIG-435_1778391751422.ttf"
+  },
+  {
+    "id": "1778391758700",
+    "category": "Self-Financed UG",
+    "courseName": "Environmental Science",
+    "subjectCode": "WNY-482",
+    "subjectName": "Test Subject WNY",
+    "year": 2013,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:42:40.995Z",
+    "fileName": "Cocogoose-Pro-Letterpress-Regular-trial.ttf",
+    "fileSize": 2147736,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/1st/WNY-482_1778391758700.ttf"
   }
 ]
