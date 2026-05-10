@@ -2745,5 +2745,20 @@
     "fileName": "Fineday-StyleOne.ttf",
     "fileSize": 197276,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/6th/GKN-806_1778391983406.ttf"
+  },
+  {
+    "id": "1778391989264",
+    "category": "Regular PG",
+    "courseName": "M.A.",
+    "subjectCode": "WJV-797",
+    "subjectName": "Test Subject WJV",
+    "year": 2022,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:46:30.114Z",
+    "fileName": "Fineday-StyleOnenon-connect.ttf",
+    "fileSize": 160056,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/2nd/WJV-797_1778391989264.ttf"
   }
 ]
