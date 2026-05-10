@@ -1815,5 +1815,20 @@
     "fileName": "Bartex.ttf",
     "fileSize": 49404,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/BFW-196_1778391622723.ttf"
+  },
+  {
+    "id": "1778391628028",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "ILU-385",
+    "subjectName": "Test Subject ILU",
+    "year": 2016,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:28.796Z",
+    "fileName": "Basketball.otf",
+    "fileSize": 17316,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/8th/ILU-385_1778391628028.otf"
   }
 ]
