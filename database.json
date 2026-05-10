@@ -2265,5 +2265,20 @@
     "fileName": "Cocogoose-Pro-Thin-trial.ttf",
     "fileSize": 246148,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/7th/RAA-201_1778391804961.ttf"
+  },
+  {
+    "id": "1778391811223",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "YJY-962",
+    "subjectName": "Test Subject YJY",
+    "year": 2013,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:32.129Z",
+    "fileName": "Cocogoose-Pro-Ultralight-Italic-trial.ttf",
+    "fileSize": 224900,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/2nd/YJY-962_1778391811223.ttf"
   }
 ]
