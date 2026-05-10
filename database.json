@@ -1320,5 +1320,20 @@
     "fileName": "upleft1.png",
     "fileSize": 1905,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__bio-chemistry/6th/WEX-599_1778390699279.png"
+  },
+  {
+    "id": "1778390704296",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "PVT-704",
+    "subjectName": "Test Subject PVT",
+    "year": 2023,
+    "semester": "2nd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:05.046Z",
+    "fileName": "upleft2.png",
+    "fileSize": 1958,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/2nd/PVT-704_1778390704296.png"
   }
 ]
