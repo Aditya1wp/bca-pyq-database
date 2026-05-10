@@ -2880,5 +2880,20 @@
     "fileName": "Game Of Squids.ttf",
     "fileSize": 26772,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a_/1st/VWG-551_1778392035944.ttf"
+  },
+  {
+    "id": "1778392041274",
+    "category": "Self-Financed UG",
+    "courseName": "Biotechnology",
+    "subjectCode": "JRL-099",
+    "subjectName": "Test Subject JRL",
+    "year": 2018,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:22.128Z",
+    "fileName": "Game of Thrones.ttf",
+    "fileSize": 28784,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/biotechnology/3rd/JRL-099_1778392041274.ttf"
   }
 ]
