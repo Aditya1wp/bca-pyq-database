@@ -1350,5 +1350,20 @@
     "fileName": "upright1.png",
     "fileSize": 1930,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/6th/EPQ-409_1778390709349.png"
+  },
+  {
+    "id": "1778390714443",
+    "category": "PG Diploma",
+    "courseName": "Industrial Safety Management",
+    "subjectCode": "TSM-326",
+    "subjectName": "Test Subject TSM",
+    "year": 2021,
+    "semester": "2nd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:25:15.272Z",
+    "fileName": "upright2.png",
+    "fileSize": 1958,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/2nd/TSM-326_1778390714443.png"
   }
 ]
