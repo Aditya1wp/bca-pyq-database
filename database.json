@@ -2955,5 +2955,20 @@
     "fileName": "Gobold Bold.otf",
     "fileSize": 20104,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/1st/TTI-779_1778392064875.otf"
+  },
+  {
+    "id": "1778392070465",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "VSW-894",
+    "subjectName": "Test Subject VSW",
+    "year": 2010,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:51.353Z",
+    "fileName": "Gobold CUTS Italic.otf",
+    "fileSize": 54484,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/1st/VSW-894_1778392070465.otf"
   }
 ]
