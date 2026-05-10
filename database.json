@@ -2355,5 +2355,20 @@
     "fileName": "Deadpool.ttf",
     "fileSize": 25732,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/8th/HGP-409_1778391838988.ttf"
+  },
+  {
+    "id": "1778391844812",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "MZN-229",
+    "subjectName": "Test Subject MZN",
+    "year": 2016,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:44:05.600Z",
+    "fileName": "Dezire Stacked.ttf",
+    "fileSize": 86000,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/MZN-229_1778391844812.ttf"
   }
 ]
