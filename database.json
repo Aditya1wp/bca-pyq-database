@@ -3555,5 +3555,20 @@
     "fileName": "kenyan coffee bd.ttf",
     "fileSize": 154128,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_mc/6th/ZWI-101_1778392297774.ttf"
+  },
+  {
+    "id": "1778392303751",
+    "category": "Regular UG",
+    "courseName": "B.Com. Hons",
+    "subjectCode": "GEX-711",
+    "subjectName": "Test Subject GEX",
+    "year": 2015,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:44.649Z",
+    "fileName": "kenyan coffee rg it.ttf",
+    "fileSize": 153684,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/1st/GEX-711_1778392303751.ttf"
   }
 ]
