@@ -2310,5 +2310,20 @@
     "fileName": "Coolvetica-condensed.ttf",
     "fileSize": 154268,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/pgdca/2nd/UYU-890_1778391823429.ttf"
+  },
+  {
+    "id": "1778391828672",
+    "category": "Self-Financed PG",
+    "courseName": "M.A. Music",
+    "subjectCode": "CBF-020",
+    "subjectName": "Test Subject CBF",
+    "year": 2014,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:43:49.456Z",
+    "fileName": "couture-bld.otf",
+    "fileSize": 6196,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__music/3rd/CBF-020_1778391828672.otf"
   }
 ]
