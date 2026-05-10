@@ -4035,5 +4035,20 @@
     "fileName": "New Athletic M54.ttf",
     "fileSize": 9240,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/3rd/WFI-040_1778392480114.ttf"
+  },
+  {
+    "id": "1778392485696",
+    "category": "Self-Financed UG",
+    "courseName": "Environmental Science",
+    "subjectCode": "MMJ-983",
+    "subjectName": "Test Subject MMJ",
+    "year": 2014,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:54:46.567Z",
+    "fileName": "OldLondon 400.otf",
+    "fileSize": 42500,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/5th/MMJ-983_1778392485696.otf"
   }
 ]
