@@ -1140,5 +1140,20 @@
     "fileName": "right1.png",
     "fileSize": 1930,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/5th/FMW-621_1778390638602.png"
+  },
+  {
+    "id": "1778390643599",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "HTI-973",
+    "subjectName": "Test Subject HTI",
+    "year": 2020,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:04.335Z",
+    "fileName": "right2.png",
+    "fileSize": 1914,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/3rd/HTI-973_1778390643599.png"
   }
 ]
