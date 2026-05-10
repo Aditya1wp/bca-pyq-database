@@ -4650,5 +4650,20 @@
     "fileName": "Senja Free Trial.woff",
     "fileSize": 41016,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/TGR-756_1778392711755.woff"
+  },
+  {
+    "id": "1778392717388",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "UPA-622",
+    "subjectName": "Test Subject UPA",
+    "year": 2021,
+    "semester": "7th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:58:38.215Z",
+    "fileName": "Senja Free Trial.woff2",
+    "fileSize": 32800,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/7th/UPA-622_1778392717388.woff2"
   }
 ]
