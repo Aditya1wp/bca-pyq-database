@@ -2505,5 +2505,20 @@
     "fileName": "Eatday.ttf",
     "fileSize": 49952,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/8th/YXR-146_1778391895089.ttf"
+  },
+  {
+    "id": "1778391900413",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "ZKK-213",
+    "subjectName": "Test Subject ZKK",
+    "year": 2020,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:01.165Z",
+    "fileName": "Edition.ttf",
+    "fileSize": 22508,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/8th/ZKK-213_1778391900413.ttf"
   }
 ]
