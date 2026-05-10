@@ -4125,5 +4125,20 @@
     "fileName": "Oppenheimer.otf",
     "fileSize": 23664,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/1st/VZQ-542_1778392514014.otf"
+  },
+  {
+    "id": "1778392519430",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "QWR-908",
+    "subjectName": "Test Subject QWR",
+    "year": 2015,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:55:20.182Z",
+    "fileName": "OPTIRomanaRoman-Normal.otf",
+    "fileSize": 35780,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/8th/QWR-908_1778392519430.otf"
   }
 ]
