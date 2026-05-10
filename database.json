@@ -3840,5 +3840,20 @@
     "fileName": "Longhaul.ttf",
     "fileSize": 16964,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_a__women_s_studies/7th/IGZ-092_1778392408986.ttf"
+  },
+  {
+    "id": "1778392414601",
+    "category": "Self-Financed UG",
+    "courseName": "Environmental Science",
+    "subjectCode": "SPL-205",
+    "subjectName": "Test Subject SPL",
+    "year": 2018,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:53:35.453Z",
+    "fileName": "Love.ttf",
+    "fileSize": 48212,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/environmental_science/8th/SPL-205_1778392414601.ttf"
   }
 ]
