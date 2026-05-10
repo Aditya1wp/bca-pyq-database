@@ -2940,5 +2940,20 @@
     "fileName": "Gobold Bold Italic.otf",
     "fileSize": 22856,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/6th/BAK-214_1778392059485.otf"
+  },
+  {
+    "id": "1778392064875",
+    "category": "PG Diploma",
+    "courseName": "Public Administration",
+    "subjectCode": "TTI-779",
+    "subjectName": "Test Subject TTI",
+    "year": 2020,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:47:45.685Z",
+    "fileName": "Gobold Bold.otf",
+    "fileSize": 20104,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/public_administration/1st/TTI-779_1778392064875.otf"
   }
 ]
