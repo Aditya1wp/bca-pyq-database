@@ -1695,5 +1695,20 @@
     "fileName": "Baby Doll.ttf",
     "fileSize": 42212,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/4th/DUM-623_1778391578315.ttf"
+  },
+  {
+    "id": "1778391583619",
+    "category": "PG Diploma",
+    "courseName": "Industrial Safety Management",
+    "subjectCode": "MLK-427",
+    "subjectName": "Test Subject MLK",
+    "year": 2016,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:39:44.403Z",
+    "fileName": "BabyDoll 400.ttf",
+    "fileSize": 23276,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/industrial_safety_management/7th/MLK-427_1778391583619.ttf"
   }
 ]
