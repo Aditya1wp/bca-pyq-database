@@ -2595,5 +2595,20 @@
     "fileName": "Espresso Skhow.ttf",
     "fileSize": 78332,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/msw/4th/BLQ-206_1778391928277.ttf"
+  },
+  {
+    "id": "1778391934010",
+    "category": "Self-Financed UG",
+    "courseName": "Functional English",
+    "subjectCode": "PEW-681",
+    "subjectName": "Test Subject PEW",
+    "year": 2010,
+    "semester": "5th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:45:34.863Z",
+    "fileName": "ethnocentric rg.ttf",
+    "fileSize": 62936,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/functional_english/5th/PEW-681_1778391934010.ttf"
   }
 ]
