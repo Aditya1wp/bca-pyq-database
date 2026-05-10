@@ -3120,5 +3120,20 @@
     "fileName": "Gobold Regular.otf",
     "fileSize": 19636,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/7th/XYO-094_1778392124354.otf"
+  },
+  {
+    "id": "1778392129819",
+    "category": "PG Diploma",
+    "courseName": "Clinical Psychology",
+    "subjectCode": "ONF-291",
+    "subjectName": "Test Subject ONF",
+    "year": 2014,
+    "semester": "4th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:50.598Z",
+    "fileName": "Gobold Uplow Italic.otf",
+    "fileSize": 23232,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/4th/ONF-291_1778392129819.otf"
   }
 ]
