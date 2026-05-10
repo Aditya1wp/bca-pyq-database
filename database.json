@@ -3105,5 +3105,20 @@
     "fileName": "Gobold Lowplus.otf",
     "fileSize": 19536,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/8th/LWK-447_1778392118835.otf"
+  },
+  {
+    "id": "1778392124354",
+    "category": "PG Diploma",
+    "courseName": "Women's Studies",
+    "subjectCode": "XYO-094",
+    "subjectName": "Test Subject XYO",
+    "year": 2015,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:48:45.116Z",
+    "fileName": "Gobold Regular.otf",
+    "fileSize": 19636,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/women_s_studies/7th/XYO-094_1778392124354.otf"
   }
 ]
