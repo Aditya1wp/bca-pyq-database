@@ -1770,5 +1770,20 @@
     "fileName": "Baramond Bold.ttf",
     "fileSize": 52940,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/1st/GUZ-296_1778391605503.ttf"
+  },
+  {
+    "id": "1778391611194",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "FSX-754",
+    "subjectName": "Test Subject FSX",
+    "year": 2015,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:12.094Z",
+    "fileName": "Baramond Italic.ttf",
+    "fileSize": 51924,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/1st/FSX-754_1778391611194.ttf"
   }
 ]
