@@ -3480,5 +3480,20 @@
     "fileName": "jully julia.ttf",
     "fileSize": 109636,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/ll_m_/8th/SDR-078_1778392268458.ttf"
+  },
+  {
+    "id": "1778392274083",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "OYA-648",
+    "subjectName": "Test Subject OYA",
+    "year": 2024,
+    "semester": "3rd",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:51:14.957Z",
+    "fileName": "JurassicPark-BL48.ttf",
+    "fileSize": 41220,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/3rd/OYA-648_1778392274083.ttf"
   }
 ]
