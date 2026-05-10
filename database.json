@@ -1800,5 +1800,20 @@
     "fileName": "Baramond.ttf",
     "fileSize": 52480,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_sc__hons/5th/DWK-434_1778391617059.ttf"
+  },
+  {
+    "id": "1778391622723",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "BFW-196",
+    "subjectName": "Test Subject BFW",
+    "year": 2024,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:40:23.554Z",
+    "fileName": "Bartex.ttf",
+    "fileSize": 49404,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/BFW-196_1778391622723.ttf"
   }
 ]
