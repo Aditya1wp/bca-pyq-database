@@ -3435,5 +3435,20 @@
     "fileName": "Josefin Sans Italic.ttf",
     "fileSize": 84916,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/7th/GEN-452_1778392251219.ttf"
+  },
+  {
+    "id": "1778392256924",
+    "category": "Self-Financed PG",
+    "courseName": "M.Sc. Bio-Chemistry",
+    "subjectCode": "XTD-033",
+    "subjectName": "Test Subject XTD",
+    "year": 2012,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:50:57.787Z",
+    "fileName": "Josefin Sans SemiBold.ttf",
+    "fileSize": 87880,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc__bio-chemistry/3rd/XTD-033_1778392256924.ttf"
   }
 ]
