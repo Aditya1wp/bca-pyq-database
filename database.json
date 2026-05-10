@@ -4110,5 +4110,20 @@
     "fileName": "Olondon_.otf",
     "fileSize": 42500,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/6th/WFK-058_1778392508284.otf"
+  },
+  {
+    "id": "1778392514014",
+    "category": "Self-Financed PG",
+    "courseName": "MCA",
+    "subjectCode": "VZQ-542",
+    "subjectName": "Test Subject VZQ",
+    "year": 2011,
+    "semester": "1st",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:55:14.849Z",
+    "fileName": "Oppenheimer.otf",
+    "fileSize": 23664,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/1st/VZQ-542_1778392514014.otf"
   }
 ]
