@@ -4470,5 +4470,20 @@
     "fileName": "RODENBERG_DEMO.ttf",
     "fileSize": 106232,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/mca/1st/UKM-013_1778392643010.ttf"
+  },
+  {
+    "id": "1778392648729",
+    "category": "Self-Financed UG",
+    "courseName": "BSW",
+    "subjectCode": "DYI-964",
+    "subjectName": "Test Subject DYI",
+    "year": 2014,
+    "semester": "5th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:57:29.574Z",
+    "fileName": "RUSTF___.TTF",
+    "fileSize": 31424,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bsw/5th/DYI-964_1778392648729.TTF"
   }
 ]
