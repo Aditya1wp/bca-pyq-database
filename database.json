@@ -3675,5 +3675,20 @@
     "fileName": "LEMONMILK-Medium.otf",
     "fileSize": 33760,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/4th/WCJ-733_1778392342048.otf"
+  },
+  {
+    "id": "1778392347551",
+    "category": "Self-Financed PG",
+    "courseName": "M.Lib.I.Sc.",
+    "subjectCode": "GNE-524",
+    "subjectName": "Test Subject GNE",
+    "year": 2016,
+    "semester": "7th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:52:28.438Z",
+    "fileName": "LEMONMILK-MediumItalic.otf",
+    "fileSize": 33864,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_lib_i_sc_/7th/GNE-524_1778392347551.otf"
   }
 ]
