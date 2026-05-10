@@ -1155,5 +1155,20 @@
     "fileName": "right2.png",
     "fileSize": 1914,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/3rd/HTI-973_1778390643599.png"
+  },
+  {
+    "id": "1778390648579",
+    "category": "Regular UG",
+    "courseName": "B.A. Hons",
+    "subjectCode": "LNN-574",
+    "subjectName": "Test Subject LNN",
+    "year": 2016,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:09.405Z",
+    "fileName": "rightclaw1.png",
+    "fileSize": 1924,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/8th/LNN-574_1778390648579.png"
   }
 ]
