@@ -4845,5 +4845,20 @@
     "fileName": "The Bomb demo.otf",
     "fileSize": 22068,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_com__hons/5th/UHW-999_1778392784750.otf"
+  },
+  {
+    "id": "1778392790619",
+    "category": "Regular PG",
+    "courseName": "M.Ed.",
+    "subjectCode": "CIV-939",
+    "subjectName": "Test Subject CIV",
+    "year": 2017,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-10T05:59:51.525Z",
+    "fileName": "The Devil Net.ttf",
+    "fileSize": 201360,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_ed_/4th/CIV-939_1778392790619.ttf"
   }
 ]
