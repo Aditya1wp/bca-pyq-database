@@ -1215,5 +1215,20 @@
     "fileName": "scratch2.png",
     "fileSize": 1899,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/clinical_psychology/5th/IEF-118_1778390664014.png"
+  },
+  {
+    "id": "1778390669088",
+    "category": "Regular PG",
+    "courseName": "M.Com.",
+    "subjectCode": "CCI-672",
+    "subjectName": "Test Subject CCI",
+    "year": 2016,
+    "semester": "8th",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-05-10T05:24:29.851Z",
+    "fileName": "sleep1.png",
+    "fileSize": 1834,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_com_/8th/CCI-672_1778390669088.png"
   }
 ]
