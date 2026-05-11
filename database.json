@@ -1118,5 +1118,61 @@
     "fileSize": 805966,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/SEC2_1778496005265.pdf",
     "verified": true
+  },
+  {
+    "id": "1778496521407",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-12",
+    "subjectName": "2021 (1)",
+    "year": 2021,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:48:44.471Z",
+    "fileName": "2021 (1).pdf",
+    "fileSize": 1275290,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/CC-12_1778496521407.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778496524472",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "DSE_01",
+    "subjectName": "2021 (2)",
+    "year": 2021,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:48:47.531Z",
+    "fileName": "2021 (2).pdf",
+    "fileSize": 1620155,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/DSE_01_1778496524472.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778496527533",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "DSE_-02",
+    "subjectName": "2021 (3)",
+    "year": "2021",
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:48:50.629Z",
+    "fileName": "2021 (3).pdf",
+    "fileSize": 1514275,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/DSE_-02_1778496527533.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778496530632",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-11",
+    "subjectName": "2021",
+    "year": 2021,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:48:54.050Z",
+    "fileName": "2021.pdf",
+    "fileSize": 1881179,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/CC-11_1778496530632.pdf",
+    "verified": true
   }
 ]
