@@ -1342,5 +1342,20 @@
     "fileSize": 2514742,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/DSE_01_1778497007200.pdf",
     "verified": true
+  },
+  {
+    "id": "1778501327181",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC08",
+    "subjectName": "Computer networking  and architecture ",
+    "year": 2026,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-11T12:08:48.560Z",
+    "fileName": "CC-8 Computer Network Architectures and Data Communication Protocols.pdf",
+    "fileSize": 329840,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC08_1778501327181.pdf"
   }
 ]
