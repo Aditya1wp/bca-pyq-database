@@ -1230,5 +1230,61 @@
     "fileSize": 1675513,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/DSE_02_1778496691571.pdf",
     "verified": true
+  },
+  {
+    "id": "1778496805634",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC_12",
+    "subjectName": "2023 (1)",
+    "year": 2023,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:53:30.301Z",
+    "fileName": "2023 (1).pdf",
+    "fileSize": 1874003,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/CC_12_1778496805634.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778496810302",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "DSE_01",
+    "subjectName": "2023 (2)",
+    "year": 2023,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:53:33.719Z",
+    "fileName": "2023 (2).pdf",
+    "fileSize": 2274848,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/DSE_01_1778496810302.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778496813721",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "DSE_2",
+    "subjectName": "2023 (3)",
+    "year": 2023,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:53:36.842Z",
+    "fileName": "2023 (3).pdf",
+    "fileSize": 1801423,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/DSE_2_1778496813721.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778496816845",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC_11",
+    "subjectName": "2023",
+    "year": 2023,
+    "semester": "5th",
+    "createdAt": "2026-05-11T10:53:40.244Z",
+    "fileName": "2023.pdf",
+    "fileSize": 2181743,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/5th/CC_11_1778496816845.pdf",
+    "verified": true
   }
 ]
