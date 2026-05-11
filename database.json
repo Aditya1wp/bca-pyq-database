@@ -1352,7 +1352,7 @@
     "year": 2026,
     "semester": "4th",
     "docType": "notes",
-    "verified": false,
+    "verified": true,
     "createdAt": "2026-05-11T12:08:48.560Z",
     "fileName": "CC-8 Computer Network Architectures and Data Communication Protocols.pdf",
     "fileSize": 329840,
