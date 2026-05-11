@@ -852,5 +852,61 @@
     "fileSize": 159441,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE-04_1778494667067.pdf",
     "verified": true
+  },
+  {
+    "id": "1778495476369",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-09",
+    "subjectName": "cc-092021",
+    "year": "2021",
+    "semester": "4th",
+    "createdAt": "2026-05-11T10:31:18.551Z",
+    "fileName": "cc-092021.pdf",
+    "fileSize": 217303,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-09_1778495476369.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778495478552",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-10",
+    "subjectName": "cc-102021",
+    "year": "2021",
+    "semester": "4th",
+    "createdAt": "2026-05-11T10:31:20.590Z",
+    "fileName": "cc-102021.pdf",
+    "fileSize": 138033,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-10_1778495478552.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778495480592",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GE-04",
+    "subjectName": "GE-042021",
+    "year": "2021",
+    "semester": "4th",
+    "createdAt": "2026-05-11T10:31:22.492Z",
+    "fileName": "GE-042021.pdf",
+    "fileSize": 159441,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/GE-04_1778495480592.pdf",
+    "verified": true
+  },
+  {
+    "id": "1778495482495",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "SEC-2",
+    "subjectName": "SEC-22021",
+    "year": "2021",
+    "semester": "4th",
+    "createdAt": "2026-05-11T10:31:24.744Z",
+    "fileName": "SEC-22021.pdf",
+    "fileSize": 198492,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/SEC-2_1778495482495.pdf",
+    "verified": true
   }
 ]
