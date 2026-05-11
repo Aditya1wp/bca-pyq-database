@@ -826,20 +826,6 @@
     "verified": true
   },
   {
-    "id": "1778494662232",
-    "category": "Self-Financed UG",
-    "courseName": "BCA",
-    "subjectCode": "CC-09",
-    "subjectName": "cc-092021",
-    "year": "2021",
-    "semester": "4th",
-    "createdAt": "2026-05-11T10:17:44.886Z",
-    "fileName": "cc-092021.pdf",
-    "fileSize": 217303,
-    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/CC-09_1778494662232.pdf",
-    "verified": true
-  },
-  {
     "id": "1778494664888",
     "category": "Self-Financed UG",
     "courseName": "BCA",
