@@ -852,19 +852,5 @@
     "fileSize": 159441,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GE-04_1778494667067.pdf",
     "verified": true
-  },
-  {
-    "id": "1778494669068",
-    "category": "Self-Financed UG",
-    "courseName": "BCA",
-    "subjectCode": "SEC-2",
-    "subjectName": "SEC-22021",
-    "year": "2021",
-    "semester": "1st",
-    "createdAt": "2026-05-11T10:17:51.486Z",
-    "fileName": "SEC-22021.pdf",
-    "fileSize": 198492,
-    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/SEC-2_1778494669068.pdf",
-    "verified": true
   }
 ]
