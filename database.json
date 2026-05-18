@@ -1357,5 +1357,20 @@
     "fileName": "CC-8 Computer Network Architectures and Data Communication Protocols.pdf",
     "fileSize": 329840,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC08_1778501327181.pdf"
+  },
+  {
+    "id": "1779120631385",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-10",
+    "subjectName": "Oracle and rdbms ",
+    "year": 2026,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-05-18T16:10:33.207Z",
+    "fileName": "DBMS_Practical_Copy.pdf",
+    "fileSize": 230558,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-10_1779120631385.pdf"
   }
 ]
