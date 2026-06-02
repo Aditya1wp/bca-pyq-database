@@ -1382,7 +1382,7 @@
     "year": 2026,
     "semester": "4th",
     "docType": "notes",
-    "verified": false,
+    "verified": true,
     "createdAt": "2026-06-02T12:18:30.938Z",
     "fileName": "vb.net pyq solution.pdf",
     "fileSize": 844797,
