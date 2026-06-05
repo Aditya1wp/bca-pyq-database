@@ -1402,20 +1402,5 @@
     "fileName": "dot net.pdf",
     "fileSize": 506499,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-09_1780651975257.pdf"
-  },
-  {
-    "id": "1780652075552",
-    "category": "Self-Financed UG",
-    "courseName": "BCA",
-    "subjectCode": "CC-08",
-    "subjectName": "networking",
-    "year": 2024,
-    "semester": "4th",
-    "docType": "pyq",
-    "verified": false,
-    "createdAt": "2026-06-05T09:34:36.852Z",
-    "fileName": "CC-8_1778495876780.pdf",
-    "fileSize": 399678,
-    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-08_1780652075552.pdf"
   }
 ]
