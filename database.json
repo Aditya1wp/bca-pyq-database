@@ -1397,7 +1397,7 @@
     "year": 2026,
     "semester": "4th",
     "docType": "notes",
-    "verified": false,
+    "verified": true,
     "createdAt": "2026-06-05T09:32:56.651Z",
     "fileName": "dot net.pdf",
     "fileSize": 506499,
