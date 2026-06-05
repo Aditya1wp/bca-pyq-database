@@ -1387,5 +1387,20 @@
     "fileName": "vb.net pyq solution.pdf",
     "fileSize": 844797,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-09_1780402708858.pdf"
+  },
+  {
+    "id": "1780651975257",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-09",
+    "subjectName": "VB.NET notes",
+    "year": 2026,
+    "semester": "4th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-06-05T09:32:56.651Z",
+    "fileName": "dot net.pdf",
+    "fileSize": 506499,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-09_1780651975257.pdf"
   }
 ]
