@@ -1419,5 +1419,22 @@
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/TEST-CONN_1784278948946.pdf",
     "uploaderName": "Anonymous Student",
     "uploader_name": "Anonymous Student"
+  },
+  {
+    "id": "1784279616012",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "TEST-AUTH",
+    "subjectName": "Authentication Verification Test",
+    "year": 2026,
+    "semester": "1st",
+    "docType": "test-doc",
+    "verified": false,
+    "createdAt": "2026-07-17T09:13:38.664Z",
+    "fileName": "test_local_auth.pdf",
+    "fileSize": 1024,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/TEST-AUTH_1784279616012.pdf",
+    "uploaderName": "API Verifier",
+    "uploader_name": "API Verifier"
   }
 ]
