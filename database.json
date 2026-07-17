@@ -1402,39 +1402,5 @@
     "fileName": "dot net.pdf",
     "fileSize": 506499,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-09_1780651975257.pdf"
-  },
-  {
-    "id": "1784278948946",
-    "category": "Regular UG",
-    "courseName": "B.A. Hons",
-    "subjectCode": "TEST-CONN",
-    "subjectName": "Connection Test Paper",
-    "year": 2026,
-    "semester": "1st",
-    "docType": "pyq",
-    "verified": false,
-    "createdAt": "2026-07-17T09:02:32.400Z",
-    "fileName": "test_connection.pdf",
-    "fileSize": 100,
-    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_a__hons/1st/TEST-CONN_1784278948946.pdf",
-    "uploaderName": "Anonymous Student",
-    "uploader_name": "Anonymous Student"
-  },
-  {
-    "id": "1784280069288",
-    "category": "Self-Financed UG",
-    "courseName": "B.Lib.I.Sc.",
-    "subjectCode": "545",
-    "subjectName": "jhgghj",
-    "year": 2024,
-    "semester": "1st",
-    "docType": "pyq",
-    "verified": false,
-    "createdAt": "2026-07-17T09:21:12.491Z",
-    "fileName": "HELLO WORKD.pdf",
-    "fileSize": 74964,
-    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/b_lib_i_sc_/1st/545_1784280069288.pdf",
-    "uploaderName": "Anonymous Student",
-    "uploader_name": "Anonymous Student"
   }
 ]
