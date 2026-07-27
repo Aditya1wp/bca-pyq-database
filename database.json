@@ -1402,5 +1402,22 @@
     "fileName": "dot net.pdf",
     "fileSize": 506499,
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/4th/CC-09_1780651975257.pdf"
+  },
+  {
+    "id": "1785149895554",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GTA_VICE_CITY",
+    "subjectName": "ROCKSTAR",
+    "year": 2027,
+    "semester": "1st",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-07-27T10:58:17.673Z",
+    "fileName": "COVER.jpg",
+    "fileSize": 2891559,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GTA_VICE_CITY_1785149895554.jpg",
+    "uploaderName": "Adi",
+    "uploader_name": "Adi"
   }
 ]
