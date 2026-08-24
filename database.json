@@ -1419,5 +1419,22 @@
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/1st/GTA_VICE_CITY_1785149895554.jpg",
     "uploaderName": "Adi",
     "uploader_name": "Adi"
+  },
+  {
+    "id": "1787580225905",
+    "category": "Regular PG",
+    "courseName": "M.Sc.",
+    "subjectCode": "AUGUST_MONTH_COMMIT",
+    "subjectName": "github backend",
+    "year": 2026,
+    "semester": "8th",
+    "docType": "notes",
+    "verified": false,
+    "createdAt": "2026-08-24T14:03:47.918Z",
+    "fileName": "Python Notes.pdf",
+    "fileSize": 851301,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/8th/AUGUST_MONTH_COMMIT_1787580225905.pdf",
+    "uploaderName": "Adix",
+    "uploader_name": "Adix"
   }
 ]
