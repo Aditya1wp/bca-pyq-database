@@ -1504,5 +1504,22 @@
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/GE-3_1790943170389.pdf",
     "uploaderName": "Bob",
     "uploader_name": "Bob"
+  },
+  {
+    "id": "1790943212183",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "SEC-1",
+    "subjectName": "Evs",
+    "year": 2025,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-10-02T12:13:33.885Z",
+    "fileName": "sec-1.pdf",
+    "fileSize": 803492,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/SEC-1_1790943212183.pdf",
+    "uploaderName": "Bob",
+    "uploader_name": "Bob"
   }
 ]
