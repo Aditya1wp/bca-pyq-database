@@ -1470,5 +1470,22 @@
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/CC-6_1790943084407.pdf",
     "uploaderName": "John",
     "uploader_name": "John"
+  },
+  {
+    "id": "1790943125859",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-7",
+    "subjectName": "SSAD",
+    "year": 2025,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-10-02T12:12:07.459Z",
+    "fileName": "CC-7.pdf",
+    "fileSize": 756977,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/CC-7_1790943125859.pdf",
+    "uploaderName": "John",
+    "uploader_name": "John"
   }
 ]
