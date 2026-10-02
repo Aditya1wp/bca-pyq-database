@@ -1487,5 +1487,22 @@
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/CC-7_1790943125859.pdf",
     "uploaderName": "John",
     "uploader_name": "John"
+  },
+  {
+    "id": "1790943170389",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "GE-3",
+    "subjectName": "Stats",
+    "year": 2025,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-10-02T12:12:52.074Z",
+    "fileName": "GE-3.pdf",
+    "fileSize": 584370,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/GE-3_1790943170389.pdf",
+    "uploaderName": "Bob",
+    "uploader_name": "Bob"
   }
 ]
