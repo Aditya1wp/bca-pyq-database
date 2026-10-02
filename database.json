@@ -1436,5 +1436,22 @@
     "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/m_sc_/8th/AUGUST_MONTH_COMMIT_1787580225905.pdf",
     "uploaderName": "Adix",
     "uploader_name": "Adix"
+  },
+  {
+    "id": "1790942971476",
+    "category": "Self-Financed UG",
+    "courseName": "BCA",
+    "subjectCode": "CC-5",
+    "subjectName": "Python",
+    "year": 2025,
+    "semester": "3rd",
+    "docType": "pyq",
+    "verified": false,
+    "createdAt": "2026-10-02T12:09:33.752Z",
+    "fileName": "CC-5.pdf",
+    "fileSize": 1044325,
+    "downloadUrl": "https://raw.githubusercontent.com/Aditya1wp/bca-pyq-database/main/uploads/bca/3rd/CC-5_1790942971476.pdf",
+    "uploaderName": "John",
+    "uploader_name": "John"
   }
 ]
